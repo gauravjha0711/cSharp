@@ -1,4 +1,5 @@
 using System;
+using day12_18;
 class First
 {
     static void Main()
@@ -8,11 +9,14 @@ class First
         Console.WriteLine("Enter second number : ");
         int num2 = Int32.Parse(Console.ReadLine());
         int sum = num1 + num2;
-        int discount = (sum)*10/100;
+        // int discount = (sum)*10/100;
+        // int discount = new day12_18.SomeLogic().discount(sum);
+        // int discount = new SomeLogic().discount(sum);
+        SomeLogic logic = new SomeLogic();
+        int discount = logic.discount(sum);
         int finalAmount = sum - discount;
         Console.WriteLine("Price of first Product is : {0}",num1);
         Console.WriteLine("Price of second Product is : {0}", num2);
-        Console.WriteLine("The final amount after 10% discount is : {0}", finalAmount);
-
+        Console.WriteLine("The final amount after 10% discount is : {0}", finalAmount);        
     }
 }
