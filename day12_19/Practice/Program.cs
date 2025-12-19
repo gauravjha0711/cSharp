@@ -225,24 +225,136 @@ class Practice
         //     }
         // }
 
-        Console.WriteLine("Enter a number to check Prime: ");
-        int number = Convert.ToInt32(Console.ReadLine());
-        bool isPrime = true;
-        for(int i=2; i<=number/2; i++)
+        // Console.WriteLine("Enter a number to check Prime: ");
+        // int number = Convert.ToInt32(Console.ReadLine());
+        // bool isPrime = true;
+        // for(int i=2; i<=number/2; i++)
+        // {
+        //     if(number % i == 0)
+        //     {
+        //         isPrime = false;
+        //         break;
+        //     }
+        // }
+        // if(isPrime && number > 1)
+        // {
+        //     Console.WriteLine("The number is Prime.");
+        // }
+        // else
+        // {
+        //     Console.WriteLine("The number is not Prime.");
+        // }
+
+
+
+        // 12) program to read student num,name,mark of six subject and 
+        // calculate total and average and print result and division */
+
+        // Console.WriteLine("Enter Student Number: ");
+        // int stuNum = Convert.ToInt32(Console.ReadLine());
+        // Console.WriteLine("Enter Student Name: ");
+        // string stuName = Convert.ToString(Console.ReadLine());
+        // Console.WriteLine("Enter marks of 6 subjects: ");
+        // int totalMarks = 0;
+        // for(int i=1; i<=6; i++)
+        // {
+        //     Console.WriteLine("Enter marks for subject " + i + ": ");
+        //     int marks = Convert.ToInt32(Console.ReadLine());
+        //     totalMarks += marks;
+        // }
+        // double averageMarks = totalMarks / 6.0;
+        // Console.WriteLine("Total Marks: " + totalMarks);
+        // Console.WriteLine("Average Marks: " + averageMarks);
+
+
+        // 13)/*program to read eno,ename,basic salary and calculate  
+        // pf,hra,da,net salary and gross salary and print eno,ename,basic 
+        // salary,
+        // gross salary and net salary*/
+        // pf= 12% of basic salary.
+        // hra=20% of basic salary.
+        // da= 15% of basic salary.
+        // gross salary=pf+hra+da+basic salary;
+        // net salary=gross salary - pf;
+
+        // Console.WriteLine("Enter Employee Number: ");
+        // int empNum = Convert.ToInt32(Console.ReadLine());
+        // Console.WriteLine("Enter Employee Name: ");
+        // string empName = Convert.ToString(Console.ReadLine());
+        // Console.WriteLine("Enter Basic Salary: ");
+        // double basicSalary = Convert.ToDouble(Console.ReadLine());
+        // double pf = 0.12 * basicSalary;
+        // double hra = 0.20 * basicSalary;
+        // double da = 0.15 * basicSalary;
+        // double grossSalary = basicSalary + pf + hra + da;
+        // double netSalary = grossSalary - pf;
+        // Console.WriteLine("Employee Number: " + empNum);
+        // Console.WriteLine("Employee Name: " + empName);
+        // Console.WriteLine("Basic Salary: " + basicSalary);
+        // Console.WriteLine("Gross Salary: " + grossSalary);
+        // Console.WriteLine("Net Salary: " + netSalary);
+
+
+        // 29)C# Program to Print Odd Numbers in a Given Range
+        //     This is a C# Program to generate odd numbers within a range.
+        //     Problem Description
+        //     This C# Program Generates Odd Numbers within a Range.
+        //     Problem Solution
+        //     Here Enumerable.Range generates a collection of odd numbers of a specified range.
+        //     Runtime Test Cases
+        //     21
+        //     23
+        //     25
+        //     27
+        //     29
+        //     31
+        //     33
+        //     35
+        //     37
+        //     39
+
+        // Console.WriteLine("Enter starting number of the range: ");
+        // int startRange = Convert.ToInt32(Console.ReadLine());
+        // Console.WriteLine("Enter ending number of the range: ");
+        // int endRange = Convert.ToInt32(Console.ReadLine());
+        // Console.WriteLine($"Odd numbers between {startRange} and {endRange} are:");
+        // for(int i = startRange; i <= endRange; i++)
+        // {
+        //     if(i % 2 != 0)
+        //     {
+        //         Console.WriteLine(i);
+        //     }
+        // }
+
+
+        //30  C# Program to Find the Sum of All the Multiples of 3 and 5
+        // This is a C# Program to print the sum of all the multiples of 3 and 5.
+
+        // Problem Description
+        // This C# Program Prints the Sum of all the Multiples of 3 and 5.
+
+        // Problem Solution
+        // Here the multiples of 3 and 5 are found and the sum of all the multiples are calculated and are displayed.
+
+        // Runtime Test Cases
+        
+        // 3  5  6  9  10  12  15  18  20  21  24  25  27  30  33  35  36  
+        // 39  40  42  45  48 50  51  54  55  57  60  63  65  66  69  70  72  
+        // 75  78  80  81  84  85  87  90  93  95  96  99
+        // The Sum of all the Multiples of 3 or 5 Below 100 : 2318
+
+        Console.WriteLine("Enter limit number: ");
+        int limit = Convert.ToInt32(Console.ReadLine());
+        int sum = 0;
+        Console.WriteLine($"Multiples of 3 or 5 below {limit} are: ");
+        for(int i=1; i<limit; i++)
         {
-            if(number % i == 0)
+            if(i % 3 == 0 || i % 5 == 0)
             {
-                isPrime = false;
-                break;
+                Console.Write(i + "  ");
+                sum += i;
             }
         }
-        if(isPrime && number > 1)
-        {
-            Console.WriteLine("The number is Prime.");
-        }
-        else
-        {
-            Console.WriteLine("The number is not Prime.");
-        }
+        Console.WriteLine($"\nThe Sum of all the Multiples of 3 or 5 Below {limit} : {sum}");
     }
 }
