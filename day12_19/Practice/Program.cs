@@ -343,18 +343,105 @@ class Practice
         // 75  78  80  81  84  85  87  90  93  95  96  99
         // The Sum of all the Multiples of 3 or 5 Below 100 : 2318
 
-        Console.WriteLine("Enter limit number: ");
-        int limit = Convert.ToInt32(Console.ReadLine());
-        int sum = 0;
-        Console.WriteLine($"Multiples of 3 or 5 below {limit} are: ");
-        for(int i=1; i<limit; i++)
+        // Console.WriteLine("Enter limit number: ");
+        // int limit = Convert.ToInt32(Console.ReadLine());
+        // int sum = 0;
+        // Console.WriteLine($"Multiples of 3 or 5 below {limit} are: ");
+        // for(int i=1; i<limit; i++)
+        // {
+        //     if(i % 3 == 0 || i % 5 == 0)
+        //     {
+        //         Console.Write(i + "  ");
+        //         sum += i;
+        //     }
+        // }
+        // Console.WriteLine($"\nThe Sum of all the Multiples of 3 or 5 Below {limit} : {sum}");
+
+
+        // 26)program to print numbers from 1 to 5(R to L)
+        //     1
+        //     12
+        //     123
+        //     1234
+        //     12345
+
+        // Console.WriteLine("Enter number of rows: ");
+        // int rows = Convert.ToInt32(Console.ReadLine());
+        // for(int i=1; i<=rows; i++)
+        // {
+        //     for(int j=1; j<=i; j++)
+        //     {
+        //         Console.Write(j);
+        //     }
+        //     Console.WriteLine();
+        // }
+
+
+        // 27)program to print the output as following 
+        //       *
+        //      * *
+        //     * * *
+        //    * * * *
+        //   * * * * *
+
+        // Console.WriteLine("Enter number of rows: ");
+        // int rows = Convert.ToInt32(Console.ReadLine());
+        // for(int i=1; i<=rows; i++)
+        // {
+        //     for(int j=i; j<rows; j++)
+        //     {
+        //         Console.Write(" ");
+        //     }
+        //     for(int k=1; k<=i; k++)
+        //     {
+        //         Console.Write("* ");
+        //     }
+        //     Console.WriteLine();
+        // }
+
+
+        // 28)program to read student details (no, name,marks)using do 
+        // while loop by accepting details till user enter y as an input
+
+        // char choice;
+        // do
+        // {
+        //     Console.WriteLine("Enter Student Number: ");
+        //     int stuNum = Convert.ToInt32(Console.ReadLine());
+        //     Console.WriteLine("Enter Student Name: ");
+        //     string stuName = Console.ReadLine() ?? "";
+        //     Console.WriteLine("Enter Student Marks: ");
+        //     int stuMarks = Convert.ToInt32(Console.ReadLine());
+        //     Console.WriteLine("Student Details: ");
+        //     Console.WriteLine("Number: " + stuNum);
+        //     Console.WriteLine("Name: " + stuName);
+        //     Console.WriteLine("Marks: " + stuMarks);
+        //     Console.WriteLine("Enter y/n to continue: ");
+        //     choice = Convert.ToChar(Console.ReadLine() ?? "n");
+        // } while (choice == 'y');
+
+
+        // 31)C# Program to Print All the Multiples of 17 which are Less than 100
+        // This is a C# Program to print all the multiples of 17 which are less than 100.
+        // Problem Description
+        // This C# Program Prints all the Multiples of 17 which are Less than 100.
+        // Problem Solution
+        // Here all the multiples of 17 are displayed.
+        // Program/Source Code
+        // Writethe  source code of the C# Program to Print all the Multiples of 17 which are Less than 100. The C# program should successfully compiled and executed with Microsoft Visual
+        // Studio. The program output is also shown below.
+        // Runtime Test Cases
+        // Multiples of 17 are :
+        // 17
+        // 34
+        // 51
+        // 68
+        // 85
+
+        Console.WriteLine("Multiples of 17 below 100 are: ");
+        for(int i=1; i*17<100; i++)
         {
-            if(i % 3 == 0 || i % 5 == 0)
-            {
-                Console.Write(i + "  ");
-                sum += i;
-            }
+            Console.WriteLine(i * 17);
         }
-        Console.WriteLine($"\nThe Sum of all the Multiples of 3 or 5 Below {limit} : {sum}");
     }
 }
