@@ -1,0 +1,15 @@
+D:\csharp\day12_20\practiceMore\NaturalSum\bin\Debug\net10.0\NaturalSum.exe
+D:\csharp\day12_20\practiceMore\NaturalSum\bin\Debug\net10.0\NaturalSum.deps.json
+D:\csharp\day12_20\practiceMore\NaturalSum\bin\Debug\net10.0\NaturalSum.runtimeconfig.json
+D:\csharp\day12_20\practiceMore\NaturalSum\bin\Debug\net10.0\NaturalSum.dll
+D:\csharp\day12_20\practiceMore\NaturalSum\bin\Debug\net10.0\NaturalSum.pdb
+D:\csharp\day12_20\practiceMore\NaturalSum\obj\Debug\net10.0\NaturalSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day12_20\practiceMore\NaturalSum\obj\Debug\net10.0\NaturalSum.AssemblyInfoInputs.cache
+D:\csharp\day12_20\practiceMore\NaturalSum\obj\Debug\net10.0\NaturalSum.AssemblyInfo.cs
+D:\csharp\day12_20\practiceMore\NaturalSum\obj\Debug\net10.0\NaturalSum.csproj.CoreCompileInputs.cache
+D:\csharp\day12_20\practiceMore\NaturalSum\obj\Debug\net10.0\NaturalSum.sourcelink.json
+D:\csharp\day12_20\practiceMore\NaturalSum\obj\Debug\net10.0\NaturalSum.dll
+D:\csharp\day12_20\practiceMore\NaturalSum\obj\Debug\net10.0\refint\NaturalSum.dll
+D:\csharp\day12_20\practiceMore\NaturalSum\obj\Debug\net10.0\NaturalSum.pdb
+D:\csharp\day12_20\practiceMore\NaturalSum\obj\Debug\net10.0\NaturalSum.genruntimeconfig.cache
+D:\csharp\day12_20\practiceMore\NaturalSum\obj\Debug\net10.0\ref\NaturalSum.dll
