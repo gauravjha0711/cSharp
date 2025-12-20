@@ -67,4 +67,9 @@ class Student
         get { return _stuName; }
         set { _stuName = value; }
     }
+    public float[] Marks
+    {
+        get {return _marks; }
+        set {_marks = value; }
+    }
 }
