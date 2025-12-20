@@ -1,0 +1,15 @@
+D:\csharp\day12_20\practiceMore\LeapYear\bin\Debug\net10.0\LeapYear.exe
+D:\csharp\day12_20\practiceMore\LeapYear\bin\Debug\net10.0\LeapYear.deps.json
+D:\csharp\day12_20\practiceMore\LeapYear\bin\Debug\net10.0\LeapYear.runtimeconfig.json
+D:\csharp\day12_20\practiceMore\LeapYear\bin\Debug\net10.0\LeapYear.dll
+D:\csharp\day12_20\practiceMore\LeapYear\bin\Debug\net10.0\LeapYear.pdb
+D:\csharp\day12_20\practiceMore\LeapYear\obj\Debug\net10.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day12_20\practiceMore\LeapYear\obj\Debug\net10.0\LeapYear.AssemblyInfoInputs.cache
+D:\csharp\day12_20\practiceMore\LeapYear\obj\Debug\net10.0\LeapYear.AssemblyInfo.cs
+D:\csharp\day12_20\practiceMore\LeapYear\obj\Debug\net10.0\LeapYear.csproj.CoreCompileInputs.cache
+D:\csharp\day12_20\practiceMore\LeapYear\obj\Debug\net10.0\LeapYear.sourcelink.json
+D:\csharp\day12_20\practiceMore\LeapYear\obj\Debug\net10.0\LeapYear.dll
+D:\csharp\day12_20\practiceMore\LeapYear\obj\Debug\net10.0\refint\LeapYear.dll
+D:\csharp\day12_20\practiceMore\LeapYear\obj\Debug\net10.0\LeapYear.pdb
+D:\csharp\day12_20\practiceMore\LeapYear\obj\Debug\net10.0\LeapYear.genruntimeconfig.cache
+D:\csharp\day12_20\practiceMore\LeapYear\obj\Debug\net10.0\ref\LeapYear.dll
