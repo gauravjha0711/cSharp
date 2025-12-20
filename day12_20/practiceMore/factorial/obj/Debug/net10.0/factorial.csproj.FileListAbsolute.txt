@@ -1,0 +1,15 @@
+D:\csharp\day12_20\practiceMore\factorial\obj\Debug\net10.0\factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day12_20\practiceMore\factorial\obj\Debug\net10.0\factorial.AssemblyInfoInputs.cache
+D:\csharp\day12_20\practiceMore\factorial\obj\Debug\net10.0\factorial.AssemblyInfo.cs
+D:\csharp\day12_20\practiceMore\factorial\obj\Debug\net10.0\factorial.csproj.CoreCompileInputs.cache
+D:\csharp\day12_20\practiceMore\factorial\obj\Debug\net10.0\factorial.sourcelink.json
+D:\csharp\day12_20\practiceMore\factorial\bin\Debug\net10.0\factorial.exe
+D:\csharp\day12_20\practiceMore\factorial\bin\Debug\net10.0\factorial.deps.json
+D:\csharp\day12_20\practiceMore\factorial\bin\Debug\net10.0\factorial.runtimeconfig.json
+D:\csharp\day12_20\practiceMore\factorial\bin\Debug\net10.0\factorial.dll
+D:\csharp\day12_20\practiceMore\factorial\bin\Debug\net10.0\factorial.pdb
+D:\csharp\day12_20\practiceMore\factorial\obj\Debug\net10.0\factorial.dll
+D:\csharp\day12_20\practiceMore\factorial\obj\Debug\net10.0\refint\factorial.dll
+D:\csharp\day12_20\practiceMore\factorial\obj\Debug\net10.0\factorial.pdb
+D:\csharp\day12_20\practiceMore\factorial\obj\Debug\net10.0\factorial.genruntimeconfig.cache
+D:\csharp\day12_20\practiceMore\factorial\obj\Debug\net10.0\ref\factorial.dll
