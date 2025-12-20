@@ -1,0 +1,15 @@
+D:\csharp\day12_20\practiceMore\Grade\bin\Debug\net10.0\Grade.exe
+D:\csharp\day12_20\practiceMore\Grade\bin\Debug\net10.0\Grade.deps.json
+D:\csharp\day12_20\practiceMore\Grade\bin\Debug\net10.0\Grade.runtimeconfig.json
+D:\csharp\day12_20\practiceMore\Grade\bin\Debug\net10.0\Grade.dll
+D:\csharp\day12_20\practiceMore\Grade\bin\Debug\net10.0\Grade.pdb
+D:\csharp\day12_20\practiceMore\Grade\obj\Debug\net10.0\Grade.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day12_20\practiceMore\Grade\obj\Debug\net10.0\Grade.AssemblyInfoInputs.cache
+D:\csharp\day12_20\practiceMore\Grade\obj\Debug\net10.0\Grade.AssemblyInfo.cs
+D:\csharp\day12_20\practiceMore\Grade\obj\Debug\net10.0\Grade.csproj.CoreCompileInputs.cache
+D:\csharp\day12_20\practiceMore\Grade\obj\Debug\net10.0\Grade.sourcelink.json
+D:\csharp\day12_20\practiceMore\Grade\obj\Debug\net10.0\Grade.dll
+D:\csharp\day12_20\practiceMore\Grade\obj\Debug\net10.0\refint\Grade.dll
+D:\csharp\day12_20\practiceMore\Grade\obj\Debug\net10.0\Grade.pdb
+D:\csharp\day12_20\practiceMore\Grade\obj\Debug\net10.0\Grade.genruntimeconfig.cache
+D:\csharp\day12_20\practiceMore\Grade\obj\Debug\net10.0\ref\Grade.dll
