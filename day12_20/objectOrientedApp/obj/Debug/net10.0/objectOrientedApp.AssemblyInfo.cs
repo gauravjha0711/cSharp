@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("objectOrientedApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1a40c3dcd6de006ff0cea8befeca3cb10f9609e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb442ef647fa0021c5d28fc0c5acefcde7bb9597")]
 [assembly: System.Reflection.AssemblyProductAttribute("objectOrientedApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("objectOrientedApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,12 +1,17 @@
 using System;
 class Employee
 {
-    private int EmpId=0;
-    private string Name=string.Empty;
-    string Department=string.Empty;
-    private float Salary=0.0f;
-    bool status = true;
+    // public int EmpId=0;
+    // public string Name=string.Empty;
+    // public string Department=string.Empty;
+    // public float Salary=0.0f;
+    // public bool Status = true;
 
+    private int _empId;
+    private string _name = string.Empty;
+    private string _department = string.Empty;
+    private float _salary = 0.0f;
+    private bool _status = true;
     public void AcceptDetails()
     {
         Console.WriteLine("Enter Employee Id:");
@@ -18,7 +23,7 @@ class Employee
         Console.WriteLine("Enter Employee Salary:");
         Salary = Convert.ToSingle(Console.ReadLine());
         Console.WriteLine("Enter Employee Status (true/false):");
-        status = Convert.ToBoolean(Console.ReadLine());
+        Status = Convert.ToBoolean(Console.ReadLine());
     }
     public void DisplayDetails()
     {
@@ -26,6 +31,31 @@ class Employee
         Console.WriteLine($"Employee Name: {Name}");
         Console.WriteLine($"Employee Department: {Department}");
         Console.WriteLine($"Employee Salary: {Salary}");
-        Console.WriteLine($"Employee Status: {status}");
+        Console.WriteLine($"Employee Status: {Status}");
+    }
+    public int EmpId
+    {
+        get { return _empId; }
+        set { _empId = value; }
+    }
+    public string Name
+    {
+        get { return _name; }
+        set { _name = value; }
+    }
+    public string Department
+    {
+        get { return _department; }
+        set { _department = value; }
+    }
+    public float Salary
+    {
+        get { return _salary; }
+        set { _salary = value; }
+    }
+    public bool Status
+    {
+        get { return _status; }
+        set { _status = value; }
     }
 }
