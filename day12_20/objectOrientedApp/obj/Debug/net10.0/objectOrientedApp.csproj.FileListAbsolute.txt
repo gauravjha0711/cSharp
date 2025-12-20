@@ -1,0 +1,15 @@
+D:\csharp\day12_20\objectOrientedApp\bin\Debug\net10.0\objectOrientedApp.exe
+D:\csharp\day12_20\objectOrientedApp\bin\Debug\net10.0\objectOrientedApp.deps.json
+D:\csharp\day12_20\objectOrientedApp\bin\Debug\net10.0\objectOrientedApp.runtimeconfig.json
+D:\csharp\day12_20\objectOrientedApp\bin\Debug\net10.0\objectOrientedApp.dll
+D:\csharp\day12_20\objectOrientedApp\bin\Debug\net10.0\objectOrientedApp.pdb
+D:\csharp\day12_20\objectOrientedApp\obj\Debug\net10.0\objectOrientedApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day12_20\objectOrientedApp\obj\Debug\net10.0\objectOrientedApp.AssemblyInfoInputs.cache
+D:\csharp\day12_20\objectOrientedApp\obj\Debug\net10.0\objectOrientedApp.AssemblyInfo.cs
+D:\csharp\day12_20\objectOrientedApp\obj\Debug\net10.0\objectOrientedApp.csproj.CoreCompileInputs.cache
+D:\csharp\day12_20\objectOrientedApp\obj\Debug\net10.0\objectOrientedApp.sourcelink.json
+D:\csharp\day12_20\objectOrientedApp\obj\Debug\net10.0\objectOrientedApp.dll
+D:\csharp\day12_20\objectOrientedApp\obj\Debug\net10.0\refint\objectOrientedApp.dll
+D:\csharp\day12_20\objectOrientedApp\obj\Debug\net10.0\objectOrientedApp.pdb
+D:\csharp\day12_20\objectOrientedApp\obj\Debug\net10.0\objectOrientedApp.genruntimeconfig.cache
+D:\csharp\day12_20\objectOrientedApp\obj\Debug\net10.0\ref\objectOrientedApp.dll
