@@ -1,0 +1,15 @@
+D:\csharp\day12_20\practiceMore\EvenNumber\bin\Debug\net10.0\EvenNumber.exe
+D:\csharp\day12_20\practiceMore\EvenNumber\bin\Debug\net10.0\EvenNumber.deps.json
+D:\csharp\day12_20\practiceMore\EvenNumber\bin\Debug\net10.0\EvenNumber.runtimeconfig.json
+D:\csharp\day12_20\practiceMore\EvenNumber\bin\Debug\net10.0\EvenNumber.dll
+D:\csharp\day12_20\practiceMore\EvenNumber\bin\Debug\net10.0\EvenNumber.pdb
+D:\csharp\day12_20\practiceMore\EvenNumber\obj\Debug\net10.0\EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day12_20\practiceMore\EvenNumber\obj\Debug\net10.0\EvenNumber.AssemblyInfoInputs.cache
+D:\csharp\day12_20\practiceMore\EvenNumber\obj\Debug\net10.0\EvenNumber.AssemblyInfo.cs
+D:\csharp\day12_20\practiceMore\EvenNumber\obj\Debug\net10.0\EvenNumber.csproj.CoreCompileInputs.cache
+D:\csharp\day12_20\practiceMore\EvenNumber\obj\Debug\net10.0\EvenNumber.sourcelink.json
+D:\csharp\day12_20\practiceMore\EvenNumber\obj\Debug\net10.0\EvenNumber.dll
+D:\csharp\day12_20\practiceMore\EvenNumber\obj\Debug\net10.0\refint\EvenNumber.dll
+D:\csharp\day12_20\practiceMore\EvenNumber\obj\Debug\net10.0\EvenNumber.pdb
+D:\csharp\day12_20\practiceMore\EvenNumber\obj\Debug\net10.0\EvenNumber.genruntimeconfig.cache
+D:\csharp\day12_20\practiceMore\EvenNumber\obj\Debug\net10.0\ref\EvenNumber.dll
