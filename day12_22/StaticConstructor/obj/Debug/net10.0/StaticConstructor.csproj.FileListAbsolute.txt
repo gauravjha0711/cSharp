@@ -1,0 +1,15 @@
+D:\csharp\day12_22\StaticConstructor\bin\Debug\net10.0\StaticConstructor.exe
+D:\csharp\day12_22\StaticConstructor\bin\Debug\net10.0\StaticConstructor.deps.json
+D:\csharp\day12_22\StaticConstructor\bin\Debug\net10.0\StaticConstructor.runtimeconfig.json
+D:\csharp\day12_22\StaticConstructor\bin\Debug\net10.0\StaticConstructor.dll
+D:\csharp\day12_22\StaticConstructor\bin\Debug\net10.0\StaticConstructor.pdb
+D:\csharp\day12_22\StaticConstructor\obj\Debug\net10.0\StaticConstructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day12_22\StaticConstructor\obj\Debug\net10.0\StaticConstructor.AssemblyInfoInputs.cache
+D:\csharp\day12_22\StaticConstructor\obj\Debug\net10.0\StaticConstructor.AssemblyInfo.cs
+D:\csharp\day12_22\StaticConstructor\obj\Debug\net10.0\StaticConstructor.csproj.CoreCompileInputs.cache
+D:\csharp\day12_22\StaticConstructor\obj\Debug\net10.0\StaticConstructor.sourcelink.json
+D:\csharp\day12_22\StaticConstructor\obj\Debug\net10.0\StaticConstructor.dll
+D:\csharp\day12_22\StaticConstructor\obj\Debug\net10.0\refint\StaticConstructor.dll
+D:\csharp\day12_22\StaticConstructor\obj\Debug\net10.0\StaticConstructor.pdb
+D:\csharp\day12_22\StaticConstructor\obj\Debug\net10.0\StaticConstructor.genruntimeconfig.cache
+D:\csharp\day12_22\StaticConstructor\obj\Debug\net10.0\ref\StaticConstructor.dll
