@@ -1,0 +1,15 @@
+D:\csharp\day12_22\practice\HRSystem\obj\Debug\net10.0\HRSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day12_22\practice\HRSystem\obj\Debug\net10.0\HRSystem.AssemblyInfoInputs.cache
+D:\csharp\day12_22\practice\HRSystem\obj\Debug\net10.0\HRSystem.AssemblyInfo.cs
+D:\csharp\day12_22\practice\HRSystem\obj\Debug\net10.0\HRSystem.csproj.CoreCompileInputs.cache
+D:\csharp\day12_22\practice\HRSystem\obj\Debug\net10.0\HRSystem.sourcelink.json
+D:\csharp\day12_22\practice\HRSystem\bin\Debug\net10.0\HRSystem.exe
+D:\csharp\day12_22\practice\HRSystem\bin\Debug\net10.0\HRSystem.deps.json
+D:\csharp\day12_22\practice\HRSystem\bin\Debug\net10.0\HRSystem.runtimeconfig.json
+D:\csharp\day12_22\practice\HRSystem\bin\Debug\net10.0\HRSystem.dll
+D:\csharp\day12_22\practice\HRSystem\bin\Debug\net10.0\HRSystem.pdb
+D:\csharp\day12_22\practice\HRSystem\obj\Debug\net10.0\HRSystem.dll
+D:\csharp\day12_22\practice\HRSystem\obj\Debug\net10.0\refint\HRSystem.dll
+D:\csharp\day12_22\practice\HRSystem\obj\Debug\net10.0\HRSystem.pdb
+D:\csharp\day12_22\practice\HRSystem\obj\Debug\net10.0\HRSystem.genruntimeconfig.cache
+D:\csharp\day12_22\practice\HRSystem\obj\Debug\net10.0\ref\HRSystem.dll
