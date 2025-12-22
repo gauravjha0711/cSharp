@@ -1,0 +1,15 @@
+D:\csharp\day12_22\practice\Utility\bin\Debug\net10.0\Utility.exe
+D:\csharp\day12_22\practice\Utility\bin\Debug\net10.0\Utility.deps.json
+D:\csharp\day12_22\practice\Utility\bin\Debug\net10.0\Utility.runtimeconfig.json
+D:\csharp\day12_22\practice\Utility\bin\Debug\net10.0\Utility.dll
+D:\csharp\day12_22\practice\Utility\bin\Debug\net10.0\Utility.pdb
+D:\csharp\day12_22\practice\Utility\obj\Debug\net10.0\Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day12_22\practice\Utility\obj\Debug\net10.0\Utility.AssemblyInfoInputs.cache
+D:\csharp\day12_22\practice\Utility\obj\Debug\net10.0\Utility.AssemblyInfo.cs
+D:\csharp\day12_22\practice\Utility\obj\Debug\net10.0\Utility.csproj.CoreCompileInputs.cache
+D:\csharp\day12_22\practice\Utility\obj\Debug\net10.0\Utility.sourcelink.json
+D:\csharp\day12_22\practice\Utility\obj\Debug\net10.0\Utility.dll
+D:\csharp\day12_22\practice\Utility\obj\Debug\net10.0\refint\Utility.dll
+D:\csharp\day12_22\practice\Utility\obj\Debug\net10.0\Utility.pdb
+D:\csharp\day12_22\practice\Utility\obj\Debug\net10.0\Utility.genruntimeconfig.cache
+D:\csharp\day12_22\practice\Utility\obj\Debug\net10.0\ref\Utility.dll
