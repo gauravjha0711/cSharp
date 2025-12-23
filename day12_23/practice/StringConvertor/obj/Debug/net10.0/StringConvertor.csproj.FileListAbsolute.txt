@@ -1,0 +1,15 @@
+D:\csharp\day12_23\practice\StringConvertor\bin\Debug\net10.0\StringConvertor.exe
+D:\csharp\day12_23\practice\StringConvertor\bin\Debug\net10.0\StringConvertor.deps.json
+D:\csharp\day12_23\practice\StringConvertor\bin\Debug\net10.0\StringConvertor.runtimeconfig.json
+D:\csharp\day12_23\practice\StringConvertor\bin\Debug\net10.0\StringConvertor.dll
+D:\csharp\day12_23\practice\StringConvertor\bin\Debug\net10.0\StringConvertor.pdb
+D:\csharp\day12_23\practice\StringConvertor\obj\Debug\net10.0\StringConvertor.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day12_23\practice\StringConvertor\obj\Debug\net10.0\StringConvertor.AssemblyInfoInputs.cache
+D:\csharp\day12_23\practice\StringConvertor\obj\Debug\net10.0\StringConvertor.AssemblyInfo.cs
+D:\csharp\day12_23\practice\StringConvertor\obj\Debug\net10.0\StringConvertor.csproj.CoreCompileInputs.cache
+D:\csharp\day12_23\practice\StringConvertor\obj\Debug\net10.0\StringConvertor.sourcelink.json
+D:\csharp\day12_23\practice\StringConvertor\obj\Debug\net10.0\StringConvertor.dll
+D:\csharp\day12_23\practice\StringConvertor\obj\Debug\net10.0\refint\StringConvertor.dll
+D:\csharp\day12_23\practice\StringConvertor\obj\Debug\net10.0\StringConvertor.pdb
+D:\csharp\day12_23\practice\StringConvertor\obj\Debug\net10.0\StringConvertor.genruntimeconfig.cache
+D:\csharp\day12_23\practice\StringConvertor\obj\Debug\net10.0\ref\StringConvertor.dll
