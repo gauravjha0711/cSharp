@@ -1,0 +1,15 @@
+D:\csharp\day12_23\practice\StudentInformation\obj\Debug\net10.0\StudentInformation.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day12_23\practice\StudentInformation\obj\Debug\net10.0\StudentInformation.AssemblyInfoInputs.cache
+D:\csharp\day12_23\practice\StudentInformation\obj\Debug\net10.0\StudentInformation.AssemblyInfo.cs
+D:\csharp\day12_23\practice\StudentInformation\obj\Debug\net10.0\StudentInformation.csproj.CoreCompileInputs.cache
+D:\csharp\day12_23\practice\StudentInformation\obj\Debug\net10.0\StudentInformation.sourcelink.json
+D:\csharp\day12_23\practice\StudentInformation\bin\Debug\net10.0\StudentInformation.exe
+D:\csharp\day12_23\practice\StudentInformation\bin\Debug\net10.0\StudentInformation.deps.json
+D:\csharp\day12_23\practice\StudentInformation\bin\Debug\net10.0\StudentInformation.runtimeconfig.json
+D:\csharp\day12_23\practice\StudentInformation\bin\Debug\net10.0\StudentInformation.dll
+D:\csharp\day12_23\practice\StudentInformation\bin\Debug\net10.0\StudentInformation.pdb
+D:\csharp\day12_23\practice\StudentInformation\obj\Debug\net10.0\StudentInformation.dll
+D:\csharp\day12_23\practice\StudentInformation\obj\Debug\net10.0\refint\StudentInformation.dll
+D:\csharp\day12_23\practice\StudentInformation\obj\Debug\net10.0\StudentInformation.pdb
+D:\csharp\day12_23\practice\StudentInformation\obj\Debug\net10.0\StudentInformation.genruntimeconfig.cache
+D:\csharp\day12_23\practice\StudentInformation\obj\Debug\net10.0\ref\StudentInformation.dll
