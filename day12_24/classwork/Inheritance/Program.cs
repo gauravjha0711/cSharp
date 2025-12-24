@@ -24,13 +24,19 @@ public class Program
         // program.Add(arr);
 
 
-        Calculator calculator = new Calculator();
-        Console.WriteLine("Add with no parameters: " + calculator.Add());
-        Console.WriteLine("Add with two integers: " + calculator.Add(15, 25));
-        Console.WriteLine("Add with two strings: " + calculator.Add("Hello, ", "World!"));
-        Console.WriteLine("Add with two floats: " + calculator.Add(10.5f, 20.3f));
-        
+        // Calculator calculator = new Calculator();
+        // Console.WriteLine("Add with no parameters: " + calculator.Add());
+        // Console.WriteLine("Add with two integers: " + calculator.Add(15, 25));
+        // Console.WriteLine("Add with two strings: " + calculator.Add("Hello, ", "World!"));
+        // Console.WriteLine("Add with two floats: " + calculator.Add(10.5f, 20.3f));
 
+
+        double distance = 150.0;
+        double hours = 3.0;
+        double fuel = 10.0;
+        Vehical vehical = new Vehical(distance, hours, fuel);
+        vehical.Average();  //calling base class method
+        vehical.Speed();    //calling base class method
     }
     public void Add(int num1, int num2)
     {

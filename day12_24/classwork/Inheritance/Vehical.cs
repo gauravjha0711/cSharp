@@ -16,7 +16,7 @@ public class Vehical   //Base Class
         average = distance / fuel;
         Console.WriteLine($"Average Fuel Consumption: {average} km/l");
     }
-    public virtual void speed()
+    public virtual void Speed()
     {
         double speed = 0.0;
         speed = distance / hours;
