@@ -1,0 +1,15 @@
+D:\csharp\day12_24\classwork\Inheritance\bin\Debug\net10.0\Inheritance.exe
+D:\csharp\day12_24\classwork\Inheritance\bin\Debug\net10.0\Inheritance.deps.json
+D:\csharp\day12_24\classwork\Inheritance\bin\Debug\net10.0\Inheritance.runtimeconfig.json
+D:\csharp\day12_24\classwork\Inheritance\bin\Debug\net10.0\Inheritance.dll
+D:\csharp\day12_24\classwork\Inheritance\bin\Debug\net10.0\Inheritance.pdb
+D:\csharp\day12_24\classwork\Inheritance\obj\Debug\net10.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day12_24\classwork\Inheritance\obj\Debug\net10.0\Inheritance.AssemblyInfoInputs.cache
+D:\csharp\day12_24\classwork\Inheritance\obj\Debug\net10.0\Inheritance.AssemblyInfo.cs
+D:\csharp\day12_24\classwork\Inheritance\obj\Debug\net10.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\csharp\day12_24\classwork\Inheritance\obj\Debug\net10.0\Inheritance.sourcelink.json
+D:\csharp\day12_24\classwork\Inheritance\obj\Debug\net10.0\Inheritance.dll
+D:\csharp\day12_24\classwork\Inheritance\obj\Debug\net10.0\refint\Inheritance.dll
+D:\csharp\day12_24\classwork\Inheritance\obj\Debug\net10.0\Inheritance.pdb
+D:\csharp\day12_24\classwork\Inheritance\obj\Debug\net10.0\Inheritance.genruntimeconfig.cache
+D:\csharp\day12_24\classwork\Inheritance\obj\Debug\net10.0\ref\Inheritance.dll
