@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using System.Security.Cryptography.X509Certificates;
 public class Program
 {
@@ -31,16 +32,30 @@ public class Program
         // Console.WriteLine("Add with two floats: " + calculator.Add(10.5f, 20.3f));
 
 
-        double distance = 150.0;
-        double hours = 3.0;
-        double fuel = 10.0;
-        Vehical vehical = new Vehical(distance, hours, fuel);
-        vehical.Average();  //calling base class method
-        vehical.Speed();    //calling base class method
+        // double distance = 150.0;
+        // double hours = 3.0;
+        // double fuel = 10.0;
+        // Vehical vehical = new Vehical(distance, hours, fuel);
+        // vehical.Average();  //calling base class method
+        // vehical.Speed();    //calling base class method
 
-        Car car = new Car(distance, hours, fuel);
-        car.Average();     //calling derived class method (method hiding)
-        car.Speed();       //calling derived class method (method overriding)
+        // Car car = new Car(distance, hours, fuel);
+        // car.Average();     //calling derived class method (method hiding)
+        // car.Speed();       //calling derived class method (method overriding)
+
+
+        // Furniture furniture = new Furniture(); //cannot create instance of abstract class but can create reference
+        Bookshelve bookshelve = new Bookshelve();
+        bookshelve.Accept();
+        bookshelve.Display();
+
+        Furniture furniture = new Chair();
+        furniture.Mymethod(); //calling base class method
+
+        Chair chair = new Chair();
+        chair.Accept();
+        chair.Display();
+
     }
     public void Add(int num1, int num2)
     {
