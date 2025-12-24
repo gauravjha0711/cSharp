@@ -37,6 +37,10 @@ public class Program
         Vehical vehical = new Vehical(distance, hours, fuel);
         vehical.Average();  //calling base class method
         vehical.Speed();    //calling base class method
+
+        Car car = new Car(distance, hours, fuel);
+        car.Average();     //calling derived class method (method hiding)
+        car.Speed();       //calling derived class method (method overriding)
     }
     public void Add(int num1, int num2)
     {
