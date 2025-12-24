@@ -1,0 +1,15 @@
+D:\csharp\day12_24\practice\UnitConverter\obj\Debug\net10.0\UnitConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day12_24\practice\UnitConverter\obj\Debug\net10.0\UnitConverter.AssemblyInfoInputs.cache
+D:\csharp\day12_24\practice\UnitConverter\obj\Debug\net10.0\UnitConverter.AssemblyInfo.cs
+D:\csharp\day12_24\practice\UnitConverter\obj\Debug\net10.0\UnitConverter.csproj.CoreCompileInputs.cache
+D:\csharp\day12_24\practice\UnitConverter\obj\Debug\net10.0\UnitConverter.sourcelink.json
+D:\csharp\day12_24\practice\UnitConverter\bin\Debug\net10.0\UnitConverter.exe
+D:\csharp\day12_24\practice\UnitConverter\bin\Debug\net10.0\UnitConverter.deps.json
+D:\csharp\day12_24\practice\UnitConverter\bin\Debug\net10.0\UnitConverter.runtimeconfig.json
+D:\csharp\day12_24\practice\UnitConverter\bin\Debug\net10.0\UnitConverter.dll
+D:\csharp\day12_24\practice\UnitConverter\bin\Debug\net10.0\UnitConverter.pdb
+D:\csharp\day12_24\practice\UnitConverter\obj\Debug\net10.0\UnitConverter.dll
+D:\csharp\day12_24\practice\UnitConverter\obj\Debug\net10.0\refint\UnitConverter.dll
+D:\csharp\day12_24\practice\UnitConverter\obj\Debug\net10.0\UnitConverter.pdb
+D:\csharp\day12_24\practice\UnitConverter\obj\Debug\net10.0\UnitConverter.genruntimeconfig.cache
+D:\csharp\day12_24\practice\UnitConverter\obj\Debug\net10.0\ref\UnitConverter.dll
