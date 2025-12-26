@@ -10,8 +10,3 @@ class CreditCardPayment : IPayment
         Console.WriteLine($"Refunded {amount} to Credit Card.");
     }
 }
-internal interface IPayment
-{
-    void Pay(double amount);
-    void Refund(double amount);
-}

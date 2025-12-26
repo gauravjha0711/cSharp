@@ -1,0 +1,15 @@
+D:\csharp\day12_26\Employee\obj\Debug\net10.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day12_26\Employee\obj\Debug\net10.0\Employee.AssemblyInfoInputs.cache
+D:\csharp\day12_26\Employee\obj\Debug\net10.0\Employee.AssemblyInfo.cs
+D:\csharp\day12_26\Employee\obj\Debug\net10.0\Employee.csproj.CoreCompileInputs.cache
+D:\csharp\day12_26\Employee\obj\Debug\net10.0\Employee.sourcelink.json
+D:\csharp\day12_26\Employee\bin\Debug\net10.0\Employee.exe
+D:\csharp\day12_26\Employee\bin\Debug\net10.0\Employee.deps.json
+D:\csharp\day12_26\Employee\bin\Debug\net10.0\Employee.runtimeconfig.json
+D:\csharp\day12_26\Employee\bin\Debug\net10.0\Employee.dll
+D:\csharp\day12_26\Employee\bin\Debug\net10.0\Employee.pdb
+D:\csharp\day12_26\Employee\obj\Debug\net10.0\Employee.dll
+D:\csharp\day12_26\Employee\obj\Debug\net10.0\refint\Employee.dll
+D:\csharp\day12_26\Employee\obj\Debug\net10.0\Employee.pdb
+D:\csharp\day12_26\Employee\obj\Debug\net10.0\Employee.genruntimeconfig.cache
+D:\csharp\day12_26\Employee\obj\Debug\net10.0\ref\Employee.dll
