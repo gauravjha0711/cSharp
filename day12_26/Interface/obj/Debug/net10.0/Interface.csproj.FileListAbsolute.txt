@@ -1,0 +1,15 @@
+D:\csharp\day12_26\Interface\obj\Debug\net10.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day12_26\Interface\obj\Debug\net10.0\Interface.AssemblyInfoInputs.cache
+D:\csharp\day12_26\Interface\obj\Debug\net10.0\Interface.AssemblyInfo.cs
+D:\csharp\day12_26\Interface\obj\Debug\net10.0\Interface.csproj.CoreCompileInputs.cache
+D:\csharp\day12_26\Interface\obj\Debug\net10.0\Interface.sourcelink.json
+D:\csharp\day12_26\Interface\bin\Debug\net10.0\Interface.exe
+D:\csharp\day12_26\Interface\bin\Debug\net10.0\Interface.deps.json
+D:\csharp\day12_26\Interface\bin\Debug\net10.0\Interface.runtimeconfig.json
+D:\csharp\day12_26\Interface\bin\Debug\net10.0\Interface.dll
+D:\csharp\day12_26\Interface\bin\Debug\net10.0\Interface.pdb
+D:\csharp\day12_26\Interface\obj\Debug\net10.0\Interface.dll
+D:\csharp\day12_26\Interface\obj\Debug\net10.0\refint\Interface.dll
+D:\csharp\day12_26\Interface\obj\Debug\net10.0\Interface.pdb
+D:\csharp\day12_26\Interface\obj\Debug\net10.0\Interface.genruntimeconfig.cache
+D:\csharp\day12_26\Interface\obj\Debug\net10.0\ref\Interface.dll
