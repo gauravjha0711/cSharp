@@ -1,0 +1,15 @@
+D:\csharp\day12_26\practice\AnimalSound\obj\Debug\net10.0\AnimalSound.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day12_26\practice\AnimalSound\obj\Debug\net10.0\AnimalSound.AssemblyInfoInputs.cache
+D:\csharp\day12_26\practice\AnimalSound\obj\Debug\net10.0\AnimalSound.AssemblyInfo.cs
+D:\csharp\day12_26\practice\AnimalSound\obj\Debug\net10.0\AnimalSound.csproj.CoreCompileInputs.cache
+D:\csharp\day12_26\practice\AnimalSound\obj\Debug\net10.0\AnimalSound.sourcelink.json
+D:\csharp\day12_26\practice\AnimalSound\bin\Debug\net10.0\AnimalSound.exe
+D:\csharp\day12_26\practice\AnimalSound\bin\Debug\net10.0\AnimalSound.deps.json
+D:\csharp\day12_26\practice\AnimalSound\bin\Debug\net10.0\AnimalSound.runtimeconfig.json
+D:\csharp\day12_26\practice\AnimalSound\bin\Debug\net10.0\AnimalSound.dll
+D:\csharp\day12_26\practice\AnimalSound\bin\Debug\net10.0\AnimalSound.pdb
+D:\csharp\day12_26\practice\AnimalSound\obj\Debug\net10.0\AnimalSound.dll
+D:\csharp\day12_26\practice\AnimalSound\obj\Debug\net10.0\refint\AnimalSound.dll
+D:\csharp\day12_26\practice\AnimalSound\obj\Debug\net10.0\AnimalSound.pdb
+D:\csharp\day12_26\practice\AnimalSound\obj\Debug\net10.0\AnimalSound.genruntimeconfig.cache
+D:\csharp\day12_26\practice\AnimalSound\obj\Debug\net10.0\ref\AnimalSound.dll
