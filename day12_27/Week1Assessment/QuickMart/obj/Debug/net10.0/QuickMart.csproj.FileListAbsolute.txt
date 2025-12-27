@@ -1,0 +1,15 @@
+D:\csharp\day12_27\Week1Assessment\QuickMart\bin\Debug\net10.0\QuickMart.exe
+D:\csharp\day12_27\Week1Assessment\QuickMart\bin\Debug\net10.0\QuickMart.deps.json
+D:\csharp\day12_27\Week1Assessment\QuickMart\bin\Debug\net10.0\QuickMart.runtimeconfig.json
+D:\csharp\day12_27\Week1Assessment\QuickMart\bin\Debug\net10.0\QuickMart.dll
+D:\csharp\day12_27\Week1Assessment\QuickMart\bin\Debug\net10.0\QuickMart.pdb
+D:\csharp\day12_27\Week1Assessment\QuickMart\obj\Debug\net10.0\QuickMart.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day12_27\Week1Assessment\QuickMart\obj\Debug\net10.0\QuickMart.AssemblyInfoInputs.cache
+D:\csharp\day12_27\Week1Assessment\QuickMart\obj\Debug\net10.0\QuickMart.AssemblyInfo.cs
+D:\csharp\day12_27\Week1Assessment\QuickMart\obj\Debug\net10.0\QuickMart.csproj.CoreCompileInputs.cache
+D:\csharp\day12_27\Week1Assessment\QuickMart\obj\Debug\net10.0\QuickMart.sourcelink.json
+D:\csharp\day12_27\Week1Assessment\QuickMart\obj\Debug\net10.0\QuickMart.dll
+D:\csharp\day12_27\Week1Assessment\QuickMart\obj\Debug\net10.0\refint\QuickMart.dll
+D:\csharp\day12_27\Week1Assessment\QuickMart\obj\Debug\net10.0\QuickMart.pdb
+D:\csharp\day12_27\Week1Assessment\QuickMart\obj\Debug\net10.0\QuickMart.genruntimeconfig.cache
+D:\csharp\day12_27\Week1Assessment\QuickMart\obj\Debug\net10.0\ref\QuickMart.dll

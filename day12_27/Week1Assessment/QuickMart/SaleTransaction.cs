@@ -1,0 +1,76 @@
+using System;
+public class Saletransaction
+{
+    public string InVoiceNo { get; set; }
+    public string CustomerName { get; set; }
+    public string ItemName { get; set; }
+    public int Quantity { get; set; }
+    public double PurchaseAmount { get; set; }
+    public double SellingAmount { get; set; }
+    public string ProfitOrLossStatus { get; set; }
+    public double ProfitOrLossAmount { get; set; }
+    public double ProfitMarginPercent { get; set; }
+    public static double SaleTransactionTotal { get; set; }
+    public static double LastTransaction { get; set; }
+    public static bool HasLastTransaction { get; set; }
+    public void CreateNewTransaction()
+    {
+        Console.Write("Enter Invoice No: ");
+        InVoiceNo = Console.ReadLine();
+        Console.Write("Enter Customer Name: ");
+        CustomerName = Console.ReadLine();
+        Console.Write("Enter Item Name: ");
+        ItemName = Console.ReadLine();
+        Console.Write("Enter Quantity: ");
+        Quantity = Convert.ToInt32(Console.ReadLine());
+        Console.Write("Enter Purchase Amount: ");
+        PurchaseAmount = Convert.ToDouble(Console.ReadLine());
+        Console.Write("Enter Selling Amount: ");
+        SellingAmount = Convert.ToDouble(Console.ReadLine());
+
+        LastTransaction = SellingAmount - PurchaseAmount;
+        HasLastTransaction = true;
+        Console.WriteLine("Transaction saved successfully.");
+        Console.WriteLine($"Status: {(LastTransaction > 0 ? "Profit" : LastTransaction < 0 ? "Loss" : "No Profit No Loss")}");
+        Console.WriteLine($"Profit/Loss Amount: {Math.Abs(LastTransaction)}");
+        Console.WriteLine($"Profit Margin % : {(LastTransaction != 0 ? (Math.Abs(LastTransaction) / PurchaseAmount) * 100 : 0)}%");
+    }
+    public void ViewLastTransaction()
+    {
+        if (!HasLastTransaction)
+        {
+            Console.WriteLine("No transaction available to display.");
+            return;
+        }
+
+        Console.WriteLine("----- Last Sale Transaction -----");
+        Console.WriteLine($"Invoice No: {InVoiceNo}");
+        Console.WriteLine($"Customer Name: {CustomerName}");
+        Console.WriteLine($"Item: {ItemName}");
+        Console.WriteLine($"Quantity: {Quantity}");
+        Console.WriteLine($"Purchase Amount: {PurchaseAmount}");
+        Console.WriteLine($"Selling Amount: {SellingAmount}");
+        Console.WriteLine($"Profit/Loss Status: {(LastTransaction > 0 ? "Profit" : LastTransaction < 0 ? "Loss" : "No Profit No Loss")}");
+        Console.WriteLine($"Profit/Loss Amount: {Math.Abs(LastTransaction)}");
+        Console.WriteLine($"Profit Margin % : {(LastTransaction != 0 ? (Math.Abs(LastTransaction) / PurchaseAmount) * 100 : 0)}%");
+        Console.WriteLine("---------------------------------");
+    }
+    public void CalculateProfitOrLoss()
+    {
+        if (!HasLastTransaction)
+        {
+            Console.WriteLine("No transaction available to calculate profit/loss.");
+            return;
+        }
+
+        ProfitOrLossAmount = SellingAmount - PurchaseAmount;
+        ProfitOrLossStatus = ProfitOrLossAmount > 0 ? "Profit" : ProfitOrLossAmount < 0 ? "Loss" : "No Profit No Loss";
+        ProfitMarginPercent = ProfitOrLossAmount != 0 ? (Math.Abs(ProfitOrLossAmount) / PurchaseAmount) * 100 : 0;
+
+        Console.WriteLine("----- Recomputed Profit/Loss -----");
+        Console.WriteLine($"Status: {ProfitOrLossStatus}");
+        Console.WriteLine($"Profit/Loss Amount: {Math.Abs(ProfitOrLossAmount)}");
+        Console.WriteLine($"Profit Margin % : {ProfitMarginPercent}%");
+        Console.WriteLine("----------------------------------");
+    }
+}
