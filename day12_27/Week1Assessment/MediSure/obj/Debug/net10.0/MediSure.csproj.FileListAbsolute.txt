@@ -1,0 +1,15 @@
+D:\csharp\day12_27\Week1Assessment\MediSure\obj\Debug\net10.0\MediSure.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day12_27\Week1Assessment\MediSure\obj\Debug\net10.0\MediSure.AssemblyInfoInputs.cache
+D:\csharp\day12_27\Week1Assessment\MediSure\obj\Debug\net10.0\MediSure.AssemblyInfo.cs
+D:\csharp\day12_27\Week1Assessment\MediSure\obj\Debug\net10.0\MediSure.csproj.CoreCompileInputs.cache
+D:\csharp\day12_27\Week1Assessment\MediSure\obj\Debug\net10.0\MediSure.sourcelink.json
+D:\csharp\day12_27\Week1Assessment\MediSure\bin\Debug\net10.0\MediSure.exe
+D:\csharp\day12_27\Week1Assessment\MediSure\bin\Debug\net10.0\MediSure.deps.json
+D:\csharp\day12_27\Week1Assessment\MediSure\bin\Debug\net10.0\MediSure.runtimeconfig.json
+D:\csharp\day12_27\Week1Assessment\MediSure\bin\Debug\net10.0\MediSure.dll
+D:\csharp\day12_27\Week1Assessment\MediSure\bin\Debug\net10.0\MediSure.pdb
+D:\csharp\day12_27\Week1Assessment\MediSure\obj\Debug\net10.0\MediSure.dll
+D:\csharp\day12_27\Week1Assessment\MediSure\obj\Debug\net10.0\refint\MediSure.dll
+D:\csharp\day12_27\Week1Assessment\MediSure\obj\Debug\net10.0\MediSure.pdb
+D:\csharp\day12_27\Week1Assessment\MediSure\obj\Debug\net10.0\MediSure.genruntimeconfig.cache
+D:\csharp\day12_27\Week1Assessment\MediSure\obj\Debug\net10.0\ref\MediSure.dll
