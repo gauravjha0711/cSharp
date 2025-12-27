@@ -33,7 +33,8 @@ public class Saletransaction
         Console.WriteLine("Transaction saved successfully.");
         Console.WriteLine($"Status: {(LastTransaction > 0 ? "Profit" : LastTransaction < 0 ? "Loss" : "No Profit No Loss")}");
         Console.WriteLine($"Profit/Loss Amount: {Math.Abs(LastTransaction)}");
-        Console.WriteLine($"Profit Margin % : {(LastTransaction != 0 ? (Math.Abs(LastTransaction) / PurchaseAmount) * 100 : 0)}%");
+        
+        Console.WriteLine($"Profit Margin % : {(LastTransaction != 0 ? Math.Round((Math.Abs(LastTransaction) / PurchaseAmount) * 100, 2) : 0)}");
     }
     public void ViewLastTransaction()
     {
@@ -52,7 +53,8 @@ public class Saletransaction
         Console.WriteLine($"Selling Amount: {SellingAmount}");
         Console.WriteLine($"Profit/Loss Status: {(LastTransaction > 0 ? "Profit" : LastTransaction < 0 ? "Loss" : "No Profit No Loss")}");
         Console.WriteLine($"Profit/Loss Amount: {Math.Abs(LastTransaction)}");
-        Console.WriteLine($"Profit Margin % : {(LastTransaction != 0 ? (Math.Abs(LastTransaction) / PurchaseAmount) * 100 : 0)}%");
+        
+        Console.WriteLine($"Profit Margin (%) : {(LastTransaction != 0 ? Math.Round((Math.Abs(LastTransaction) / PurchaseAmount) * 100, 2) : 0)}");
         Console.WriteLine("---------------------------------");
     }
     public void CalculateProfitOrLoss()
@@ -66,11 +68,12 @@ public class Saletransaction
         ProfitOrLossAmount = SellingAmount - PurchaseAmount;
         ProfitOrLossStatus = ProfitOrLossAmount > 0 ? "Profit" : ProfitOrLossAmount < 0 ? "Loss" : "No Profit No Loss";
         ProfitMarginPercent = ProfitOrLossAmount != 0 ? (Math.Abs(ProfitOrLossAmount) / PurchaseAmount) * 100 : 0;
-
+        
+        ProfitMarginPercent = Math.Round(ProfitMarginPercent, 2);
         Console.WriteLine("----- Recomputed Profit/Loss -----");
         Console.WriteLine($"Status: {ProfitOrLossStatus}");
         Console.WriteLine($"Profit/Loss Amount: {Math.Abs(ProfitOrLossAmount)}");
-        Console.WriteLine($"Profit Margin % : {ProfitMarginPercent}%");
+        Console.WriteLine($"Profit Margin % : {ProfitMarginPercent}");
         Console.WriteLine("----------------------------------");
     }
 }
