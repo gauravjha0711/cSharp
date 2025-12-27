@@ -16,13 +16,13 @@ public class Patientbill
     public static bool HasLastBill { get; set; }
     public void CreateNewBill()
     {
-        Console.Write("Enter Bill ID: ");
+        Console.Write("Enter Bill Id: ");
         BillId = Console.ReadLine();
         Console.Write("Enter Patient Name: ");
         PatientName = Console.ReadLine();
-        Console.Write("Is the patient insured? (yes/no): ");
-        string insuranceInput = Console.ReadLine().ToLower();
-        HasInsurance = insuranceInput == "yes";
+        Console.Write("Is the Patient insured? (Y/N): ");
+        string insuranceInput = Console.ReadLine().ToUpper();
+        HasInsurance = insuranceInput == "Y";
         Console.Write("Enter Consultation Fee: ");
         ConsultationFee = Convert.ToDouble(Console.ReadLine());
         Console.Write("Enter Lab Charges: ");
@@ -37,26 +37,26 @@ public class Patientbill
         LastBill = FinalPayable;
         HasLastBill = true;
 
-        Console.WriteLine("New bill created successfully.");
+        Console.WriteLine("New bill created.");
     }
     public void ViewLastBill()
     {
         if (!HasLastBill)
         {
-            Console.WriteLine("No bill available to display.");
+            Console.WriteLine("No bill available to Show.");
             return;
         }
 
         Console.WriteLine("----- Last Patient Bill -----");
-        Console.WriteLine($"BillID: {BillId}");
+        Console.WriteLine($"Bill Id: {BillId}");
         Console.WriteLine($"Patient Name: {PatientName}");
         Console.WriteLine($"Insured: {(HasInsurance ? "Yes" : "No")}");
-        Console.WriteLine($"Consultation Fee: {ConsultationFee}");
-        Console.WriteLine($"Lab Charges: {LabCharges}");
-        Console.WriteLine($"Medicine Charges: {MedicineCharges}");
-        Console.WriteLine($"Gross Amount: {GrossAmount}");
-        Console.WriteLine($"Discount Amount: {DiscountAmount}");
-        Console.WriteLine($"Final Payable Amount: {FinalPayable}");
+        Console.WriteLine($"Consultation Fee: {Math.Round(ConsultationFee, 2)}");
+        Console.WriteLine($"Lab Charges: {Math.Round(LabCharges, 2)}");
+        Console.WriteLine($"Medicine Charges: {Math.Round(MedicineCharges, 2)}");
+        Console.WriteLine($"Gross Amount: {Math.Round(GrossAmount, 2)}");
+        Console.WriteLine($"Discount Amount: {Math.Round(DiscountAmount, 2)}");
+        Console.WriteLine($"Final Payable Amount: {Math.Round(FinalPayable, 2)}");
         Console.WriteLine("------------------------------");
     }
     public void ClearLastBill()
@@ -80,6 +80,6 @@ public class Patientbill
         HasLastBill = false;
         LastBill = 0;
 
-        Console.WriteLine("Last bill cleared successfully.");
+        Console.WriteLine("Last bill cleared.");
     }
 }

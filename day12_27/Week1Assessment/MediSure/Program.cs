@@ -6,6 +6,7 @@ public class Program
         Patientbill bill = new Patientbill();
         while (true)
         {
+            Console.WriteLine("----- MediSure Clinic Billing -----");
             Console.WriteLine("1. Create New Bill (Enter Patient Details)");
             Console.WriteLine("2. View Last Bill");
             Console.WriteLine("3. Clear Last Bill");
@@ -27,7 +28,7 @@ public class Program
                     Console.WriteLine("Thank You. Application Closed normally.");
                     return;
                 default:
-                    Console.WriteLine("Invalid choice. Please try again.");
+                    Console.WriteLine("Invalid choice. Try again.");
                     break;
             }
         }
