@@ -11,7 +11,7 @@ public class Program
             Console.WriteLine("2. View Last Bill");
             Console.WriteLine("3. Clear Last Bill");
             Console.WriteLine("4. Exit");
-            Console.Write("Enter your choice: ");
+            Console.Write("Enter your option: ");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {

@@ -10,7 +10,7 @@ public class Program
             Console.WriteLine("2. View Last Transaction");
             Console.WriteLine("3. CalCulate Profit/Loss (Recompute & print)");
             Console.WriteLine("4. Exit");
-            Console.Write("Enter your choice: ");
+            Console.Write("Enter your option: ");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -27,7 +27,7 @@ public class Program
                     Console.WriteLine("Thank You. Application Closed normally.");
                     return;
                 default:
-                    Console.WriteLine("Invalid choice. Please try again.");
+                    Console.WriteLine("Invalid choice. Try again.");
                     break;
             }
         } 

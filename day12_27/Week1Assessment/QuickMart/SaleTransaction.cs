@@ -23,15 +23,15 @@ public class Saletransaction
         ItemName = Console.ReadLine();
         Console.Write("Enter Quantity: ");
         Quantity = Convert.ToInt32(Console.ReadLine());
-        Console.Write("Enter Purchase Amount: ");
+        Console.Write("Enter Purchase Amount (total): ");
         PurchaseAmount = Convert.ToDouble(Console.ReadLine());
-        Console.Write("Enter Selling Amount: ");
+        Console.Write("Enter Selling Amount (total): ");
         SellingAmount = Convert.ToDouble(Console.ReadLine());
 
         LastTransaction = SellingAmount - PurchaseAmount;
         HasLastTransaction = true;
         Console.WriteLine("Transaction saved successfully.");
-        Console.WriteLine($"Status: {(LastTransaction > 0 ? "Profit" : LastTransaction < 0 ? "Loss" : "No Profit No Loss")}");
+        Console.WriteLine($"Status: {(LastTransaction > 0 ? "PROFIT" : LastTransaction < 0 ? "LOSS" : "BREAK-EVEN")}");
         Console.WriteLine($"Profit/Loss Amount: {Math.Abs(LastTransaction)}");
         
         Console.WriteLine($"Profit Margin % : {(LastTransaction != 0 ? Math.Round((Math.Abs(LastTransaction) / PurchaseAmount) * 100, 2) : 0)}");
@@ -40,7 +40,7 @@ public class Saletransaction
     {
         if (!HasLastTransaction)
         {
-            Console.WriteLine("No transaction available to display.");
+            Console.WriteLine("No transaction available to show.");
             return;
         }
 
@@ -51,7 +51,7 @@ public class Saletransaction
         Console.WriteLine($"Quantity: {Quantity}");
         Console.WriteLine($"Purchase Amount: {PurchaseAmount}");
         Console.WriteLine($"Selling Amount: {SellingAmount}");
-        Console.WriteLine($"Profit/Loss Status: {(LastTransaction > 0 ? "Profit" : LastTransaction < 0 ? "Loss" : "No Profit No Loss")}");
+        Console.WriteLine($"Status: {(LastTransaction > 0 ? "PROFIT" : LastTransaction < 0 ? "LOSS" : "BREAK-EVEN")}");
         Console.WriteLine($"Profit/Loss Amount: {Math.Abs(LastTransaction)}");
         
         Console.WriteLine($"Profit Margin (%) : {(LastTransaction != 0 ? Math.Round((Math.Abs(LastTransaction) / PurchaseAmount) * 100, 2) : 0)}");
@@ -66,7 +66,7 @@ public class Saletransaction
         }
 
         ProfitOrLossAmount = SellingAmount - PurchaseAmount;
-        ProfitOrLossStatus = ProfitOrLossAmount > 0 ? "Profit" : ProfitOrLossAmount < 0 ? "Loss" : "No Profit No Loss";
+        ProfitOrLossStatus = ProfitOrLossAmount > 0 ? "PROFIT" : ProfitOrLossAmount < 0 ? "LOSS" : "BREAK-EVEN";
         ProfitMarginPercent = ProfitOrLossAmount != 0 ? (Math.Abs(ProfitOrLossAmount) / PurchaseAmount) * 100 : 0;
         
         ProfitMarginPercent = Math.Round(ProfitMarginPercent, 2);
