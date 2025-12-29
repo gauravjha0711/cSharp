@@ -1,0 +1,15 @@
+D:\csharp\day12_29\practice\Array\bin\Debug\net10.0\Array.exe
+D:\csharp\day12_29\practice\Array\bin\Debug\net10.0\Array.deps.json
+D:\csharp\day12_29\practice\Array\bin\Debug\net10.0\Array.runtimeconfig.json
+D:\csharp\day12_29\practice\Array\bin\Debug\net10.0\Array.dll
+D:\csharp\day12_29\practice\Array\bin\Debug\net10.0\Array.pdb
+D:\csharp\day12_29\practice\Array\obj\Debug\net10.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day12_29\practice\Array\obj\Debug\net10.0\Array.AssemblyInfoInputs.cache
+D:\csharp\day12_29\practice\Array\obj\Debug\net10.0\Array.AssemblyInfo.cs
+D:\csharp\day12_29\practice\Array\obj\Debug\net10.0\Array.csproj.CoreCompileInputs.cache
+D:\csharp\day12_29\practice\Array\obj\Debug\net10.0\Array.sourcelink.json
+D:\csharp\day12_29\practice\Array\obj\Debug\net10.0\Array.dll
+D:\csharp\day12_29\practice\Array\obj\Debug\net10.0\refint\Array.dll
+D:\csharp\day12_29\practice\Array\obj\Debug\net10.0\Array.pdb
+D:\csharp\day12_29\practice\Array\obj\Debug\net10.0\Array.genruntimeconfig.cache
+D:\csharp\day12_29\practice\Array\obj\Debug\net10.0\ref\Array.dll
