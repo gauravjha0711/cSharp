@@ -105,7 +105,7 @@ class Program
                 arr1[i,j] = Convert.ToInt32(Console.ReadLine());
             }
         }
-        Console.WriteLine("Matrix of {k}*{l} are")
+        Console.WriteLine("Matrix of {k}*{l} are");
         for(int i = 0; i <k; i++)
         {
             for(int j = 0; j <l; j++)
