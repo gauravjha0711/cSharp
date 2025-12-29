@@ -257,6 +257,176 @@ public class Program
 
 
         //separate even and odd numbers in separate array
+        // Console.Write("Enter size of array: ");
+        // int size = Convert.ToInt32(Console.ReadLine());
+        // int[] numbers = new int[size];
+        // Console.WriteLine("Enter array elements:");
+        // for (int i = 0; i < size; i++)
+        // {
+        //     Console.Write($"Element {i}: ");
+        //     numbers[i] = Convert.ToInt32(Console.ReadLine());
+        // }
+        // int evenCount = 0;
+        // int oddCount = 0;
+        // for (int i = 0; i < size; i++)
+        // {
+        //     if (numbers[i] % 2 == 0)
+        //     {
+        //         evenCount++;
+        //     }
+        //     else
+        //     {
+        //         oddCount++;
+        //     }
+        // }
+        // int[] evenNumbers = new int[evenCount];
+        // int[] oddNumbers = new int[oddCount];
+        // int eIndex = 0;
+        // int oIndex = 0;
+        // for (int i = 0; i < size; i++)
+        // {
+        //     if (numbers[i] % 2 == 0)
+        //     {
+        //         evenNumbers[eIndex++] = numbers[i];
+        //     }
+        //     else
+        //     {
+        //         oddNumbers[oIndex++] = numbers[i];
+        //     }
+        // }
+        // Console.Write("Even numbers are: ");
+        // for (int i = 0; i < evenNumbers.Length; i++)
+        // {
+        //     Console.Write(evenNumbers[i] + " ");
+        // }
+        // Console.WriteLine();
+        // Console.Write("Odd numbers are: ");
+        // for (int i = 0; i < oddNumbers.Length; i++)
+        // {
+        //     Console.Write(oddNumbers[i] + " ");
+        // }
+
+
+        //sort array in ascending order
+        // Console.Write("Enter size of array: ");
+        // int size = Convert.ToInt32(Console.ReadLine());
+        // int[] numbers = new int[size];
+        // Console.WriteLine("Enter array elements:");
+        // for (int i = 0; i < size; i++)
+        // {
+        //     Console.Write($"Element {i}: ");
+        //     numbers[i] = Convert.ToInt32(Console.ReadLine());
+        // }
+        // for (int i = 0; i < size - 1; i++)
+        // {
+        //     for (int j = 0; j < size - i - 1; j++)
+        //     {
+        //         if (numbers[j] > numbers[j + 1])
+        //         {
+        //             int temp = numbers[j];
+        //             numbers[j] = numbers[j + 1];
+        //             numbers[j + 1] = temp;
+        //         }
+        //     }
+        // }
+        // Console.Write("Sorted array in ascending order:");
+        // for (int i = 0; i < size; i++)
+        // {
+        //     Console.Write(numbers[i] + " ");
+        // }
+
+
+
+        //sort array in descending order
+        // Console.Write("Enter size of array: ");
+        // int size = Convert.ToInt32(Console.ReadLine());
+        // int[] numbers = new int[size];
+        // Console.WriteLine("Enter array elements:");
+        // for (int i = 0; i < size; i++)
+        // {
+        //     Console.Write($"Element {i}: ");
+        //     numbers[i] = Convert.ToInt32(Console.ReadLine());
+        // }
+        // for (int i = 0; i < size - 1; i++)
+        // {
+        //     for (int j = 0; j < size - i - 1; j++)
+        //     {
+        //         if (numbers[j] < numbers[j + 1])
+        //         {
+        //             int temp = numbers[j];
+        //             numbers[j] = numbers[j + 1];
+        //             numbers[j + 1] = temp;
+        //         }
+        //     }
+        // }
+        // Console.Write("Sorted array in ascending order:");
+        // for (int i = 0; i < size; i++)
+        // {
+        //     Console.Write(numbers[i] + " ");
+        // }
+
+
+        //insert element in sorted array
+        // Console.Write("Enter size of sorted array: ");
+        // int size = Convert.ToInt32(Console.ReadLine());
+        // int[] numbers = new int[size + 1];
+        // Console.WriteLine("Enter sorted array elements:");
+        // for (int i = 0; i < size; i++)
+        // {
+        //     Console.Write($"Element {i}: ");
+        //     numbers[i] = Convert.ToInt32(Console.ReadLine());
+        // }
+        // Console.Write("Enter element to insert: ");
+        // int element = Convert.ToInt32(Console.ReadLine());
+        // size++;
+        // for(int i = size()-1; i >= 0; i--)
+        // {
+        //     if(i==0 || numbers[i-1]<=element)
+        //     {
+        //         numbers[i]=element;
+        //         break;
+        //     }
+        //     else
+        //     {
+        //         numbers[i]=numbers[i-1];
+        //     }
+        // }
+        // Console.Write("Array after insertion: ");
+        // for (int i = 0; i < size; i++)
+        // {
+        //     Console.Write(numbers[i] + " ");
+        // }
+
+
+        //insert element at specific position in array
+        // Console.Write("Enter size of array: ");
+        // int size = Convert.ToInt32(Console.ReadLine());
+        // int[] numbers = new int[size + 1];
+        // Console.WriteLine("Enter array elements:");
+        // for (int i = 0; i < size; i++)
+        // {
+        //     Console.Write($"Element {i}: ");
+        //     numbers[i] = Convert.ToInt32(Console.ReadLine());
+        // }
+        // Console.Write("Enter position to insert element (0 to {0}): ", size);
+        // int position = Convert.ToInt32(Console.ReadLine());
+        // Console.Write("Enter element to insert: ");
+        // int element = Convert.ToInt32(Console.ReadLine());
+        // size++;
+        // for (int i = size - 1; i > position; i--)
+        // {
+        //     numbers[i] = numbers[i - 1];
+        // }
+        // numbers[position] = element;
+        // Console.Write("Array after insertion: ");
+        // for (int i = 0; i < size; i++)
+        // {
+        //     Console.Write(numbers[i] + " ");
+        // }
+
+
+
+        //delete element from array from specific position
         Console.Write("Enter size of array: ");
         int size = Convert.ToInt32(Console.ReadLine());
         int[] numbers = new int[size];
@@ -266,44 +436,17 @@ public class Program
             Console.Write($"Element {i}: ");
             numbers[i] = Convert.ToInt32(Console.ReadLine());
         }
-        int evenCount = 0;
-        int oddCount = 0;
+        Console.Write("Enter position to delete element (0 to {0}): ", size - 1);
+        int position = Convert.ToInt32(Console.ReadLine());
+        for (int i = position; i < size - 1; i++)
+        {
+            numbers[i] = numbers[i + 1];
+        }
+        size--;
+        Console.Write("Array after deletion: ");
         for (int i = 0; i < size; i++)
         {
-            if (numbers[i] % 2 == 0)
-            {
-                evenCount++;
-            }
-            else
-            {
-                oddCount++;
-            }
-        }
-        int[] evenNumbers = new int[evenCount];
-        int[] oddNumbers = new int[oddCount];
-        int eIndex = 0;
-        int oIndex = 0;
-        for (int i = 0; i < size; i++)
-        {
-            if (numbers[i] % 2 == 0)
-            {
-                evenNumbers[eIndex++] = numbers[i];
-            }
-            else
-            {
-                oddNumbers[oIndex++] = numbers[i];
-            }
-        }
-        Console.Write("Even numbers are: ");
-        for (int i = 0; i < evenNumbers.Length; i++)
-        {
-            Console.Write(evenNumbers[i] + " ");
-        }
-        Console.WriteLine();
-        Console.Write("Odd numbers are: ");
-        for (int i = 0; i < oddNumbers.Length; i++)
-        {
-            Console.Write(oddNumbers[i] + " ");
+            Console.Write(numbers[i] + " ");
         }
     }
 }
