@@ -1,0 +1,15 @@
+D:\csharp\day12_30\Practice\StringPrac\bin\Debug\net10.0\StringPrac.exe
+D:\csharp\day12_30\Practice\StringPrac\bin\Debug\net10.0\StringPrac.deps.json
+D:\csharp\day12_30\Practice\StringPrac\bin\Debug\net10.0\StringPrac.runtimeconfig.json
+D:\csharp\day12_30\Practice\StringPrac\bin\Debug\net10.0\StringPrac.dll
+D:\csharp\day12_30\Practice\StringPrac\bin\Debug\net10.0\StringPrac.pdb
+D:\csharp\day12_30\Practice\StringPrac\obj\Debug\net10.0\StringPrac.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day12_30\Practice\StringPrac\obj\Debug\net10.0\StringPrac.AssemblyInfoInputs.cache
+D:\csharp\day12_30\Practice\StringPrac\obj\Debug\net10.0\StringPrac.AssemblyInfo.cs
+D:\csharp\day12_30\Practice\StringPrac\obj\Debug\net10.0\StringPrac.csproj.CoreCompileInputs.cache
+D:\csharp\day12_30\Practice\StringPrac\obj\Debug\net10.0\StringPrac.sourcelink.json
+D:\csharp\day12_30\Practice\StringPrac\obj\Debug\net10.0\StringPrac.dll
+D:\csharp\day12_30\Practice\StringPrac\obj\Debug\net10.0\refint\StringPrac.dll
+D:\csharp\day12_30\Practice\StringPrac\obj\Debug\net10.0\StringPrac.pdb
+D:\csharp\day12_30\Practice\StringPrac\obj\Debug\net10.0\StringPrac.genruntimeconfig.cache
+D:\csharp\day12_30\Practice\StringPrac\obj\Debug\net10.0\ref\StringPrac.dll
