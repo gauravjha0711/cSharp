@@ -145,6 +145,139 @@ public class Program
 
 
 
-        
+        //reverse string using function
+        // Console.WriteLine("Enter a string to reverse: ");
+        // string input = Console.ReadLine();
+        // char[] charArray = input.ToCharArray();
+        // Array.Reverse(charArray);
+        // string reversed = new string(charArray);
+        // Console.WriteLine($"Reversed string: {reversed}");
+
+
+        //convert lower to upper case
+        // Console.WriteLine("Enter lower case string: ");
+        // string lowerCaseInput = Console.ReadLine();
+        // string upperCaseOutput = lowerCaseInput.ToUpper();
+        // Console.WriteLine($"Upper case string: {upperCaseOutput}");
+
+        //convert upper to lower case
+        // Console.WriteLine("Enter upper case string: ");
+        // string upperCaseInput = Console.ReadLine();
+        // string lowerCaseOutput = upperCaseInput.ToLower();
+        // Console.WriteLine($"Lower case string: {lowerCaseOutput}");
+
+
+
+        //convert lower to upper case without function
+        // Console.WriteLine("Enter lower case string: ");
+        // string lowerCaseInput = Console.ReadLine();
+        // char[] upperCharArray = new char[lowerCaseInput.Length];
+        // for(int i = 0; i < lowerCaseInput.Length; i++)
+        // {
+        //     upperCharArray[i] = (char)(lowerCaseInput[i] - 32);
+        // }
+        // string upperCaseOutput = new string(upperCharArray);
+        // Console.WriteLine($"Upper case string without function: {upperCaseOutput}");
+
+        //convert upper to lower case without function
+        // Console.WriteLine("Enter upper case string: ");
+        // string upperCaseInput = Console.ReadLine();
+        // char[] lowerCharArray = new char[upperCaseInput.Length];
+        // for(int i = 0; i < upperCaseInput.Length; i++)
+        // {
+        //     lowerCharArray[i] = (char)(upperCaseInput[i] + 32);
+        // }
+        // string lowerCaseOutput = new string(lowerCharArray);
+        // Console.WriteLine($"Lower case string without function: {lowerCaseOutput}");
+
+
+        //compare two string
+        // Console.WriteLine("Enter first string: ");
+        // string firstString = Console.ReadLine();
+        // Console.WriteLine("Enter second string: ");
+        // string secondString = Console.ReadLine();
+        // if(firstString.CompareTo(secondString) == 0)
+        // {
+        //     Console.WriteLine("Both strings are equal.");
+        // }
+        // else
+        // {
+        //     Console.WriteLine("Strings are not equal.");
+        // }
+
+
+        //compare two string without function
+        // Console.WriteLine("Enter first string: ");
+        // string firstString = Console.ReadLine();
+        // Console.WriteLine("Enter second string: ");
+        // string secondString = Console.ReadLine();
+        // bool areEqual = true;
+        // if(firstString.Length != secondString.Length)
+        // {
+        //     areEqual = false;
+        // }
+        // else
+        // {
+        //     for(int i = 0; i < firstString.Length; i++)
+        //     {
+        //         if(firstString[i] != secondString[i])
+        //         {
+        //             areEqual = false;
+        //             break;
+        //         }
+        //     }
+        // }
+        // if(areEqual)
+        // {
+        //     Console.WriteLine("Both strings are equal without using function.");
+        // }
+        // else
+        // {
+        //     Console.WriteLine("Strings are not equal without using function.");
+        // }
+
+
+
+        //concatenate two string with function
+        // Console.WriteLine("Enter first string: ");
+        // string firstString = Console.ReadLine();
+        // Console.WriteLine("Enter second string: ");
+        // string secondString = Console.ReadLine();
+        // string concatenatedString = String.Concat(firstString, secondString);
+        // Console.WriteLine($"Concatenated string: {concatenatedString}");
+
+
+        //concatenate two string without function
+        // Console.WriteLine("Enter first string: ");
+        // string firstString = Console.ReadLine();
+        // Console.WriteLine("Enter second string: ");
+        // string secondString = Console.ReadLine();
+        // char[] concatenatedCharArray = new char[firstString.Length + secondString.Length];
+        // for(int i = 0; i < firstString.Length; i++)
+        // {
+        //     concatenatedCharArray[i] = firstString[i];
+        // }
+        // for(int j = 0; j < secondString.Length; j++)
+        // {
+        //     concatenatedCharArray[firstString.Length + j] = secondString[j];
+        // }
+        // string concatenatedString = new string(concatenatedCharArray);
+        // Console.WriteLine($"Concatenated string without function: {concatenatedString}");
+
+
+
+        //search a string in main string
+        Console.WriteLine("Enter main string: ");
+        string mainString = Console.ReadLine();
+        Console.WriteLine("Enter substring to search: ");
+        string subString = Console.ReadLine();
+        if(mainString.Contains(subString))
+        {
+            Console.WriteLine($"The main string contains the substring '{subString}'.");
+        }
+        else
+        {
+            Console.WriteLine($"The main string does not contain the substring '{subString}'.");
+        }
     }
 }
