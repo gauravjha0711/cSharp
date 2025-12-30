@@ -1,0 +1,15 @@
+D:\csharp\day12_30\StringClass\bin\Debug\net10.0\StringClass.exe
+D:\csharp\day12_30\StringClass\bin\Debug\net10.0\StringClass.deps.json
+D:\csharp\day12_30\StringClass\bin\Debug\net10.0\StringClass.runtimeconfig.json
+D:\csharp\day12_30\StringClass\bin\Debug\net10.0\StringClass.dll
+D:\csharp\day12_30\StringClass\bin\Debug\net10.0\StringClass.pdb
+D:\csharp\day12_30\StringClass\obj\Debug\net10.0\StringClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day12_30\StringClass\obj\Debug\net10.0\StringClass.AssemblyInfoInputs.cache
+D:\csharp\day12_30\StringClass\obj\Debug\net10.0\StringClass.AssemblyInfo.cs
+D:\csharp\day12_30\StringClass\obj\Debug\net10.0\StringClass.csproj.CoreCompileInputs.cache
+D:\csharp\day12_30\StringClass\obj\Debug\net10.0\StringClass.sourcelink.json
+D:\csharp\day12_30\StringClass\obj\Debug\net10.0\StringClass.dll
+D:\csharp\day12_30\StringClass\obj\Debug\net10.0\refint\StringClass.dll
+D:\csharp\day12_30\StringClass\obj\Debug\net10.0\StringClass.pdb
+D:\csharp\day12_30\StringClass\obj\Debug\net10.0\StringClass.genruntimeconfig.cache
+D:\csharp\day12_30\StringClass\obj\Debug\net10.0\ref\StringClass.dll
