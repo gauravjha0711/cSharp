@@ -1,0 +1,15 @@
+D:\csharp\day12_30\JaggedArray\bin\Debug\net10.0\JaggedArray.exe
+D:\csharp\day12_30\JaggedArray\bin\Debug\net10.0\JaggedArray.deps.json
+D:\csharp\day12_30\JaggedArray\bin\Debug\net10.0\JaggedArray.runtimeconfig.json
+D:\csharp\day12_30\JaggedArray\bin\Debug\net10.0\JaggedArray.dll
+D:\csharp\day12_30\JaggedArray\bin\Debug\net10.0\JaggedArray.pdb
+D:\csharp\day12_30\JaggedArray\obj\Debug\net10.0\JaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day12_30\JaggedArray\obj\Debug\net10.0\JaggedArray.AssemblyInfoInputs.cache
+D:\csharp\day12_30\JaggedArray\obj\Debug\net10.0\JaggedArray.AssemblyInfo.cs
+D:\csharp\day12_30\JaggedArray\obj\Debug\net10.0\JaggedArray.csproj.CoreCompileInputs.cache
+D:\csharp\day12_30\JaggedArray\obj\Debug\net10.0\JaggedArray.sourcelink.json
+D:\csharp\day12_30\JaggedArray\obj\Debug\net10.0\JaggedArray.dll
+D:\csharp\day12_30\JaggedArray\obj\Debug\net10.0\refint\JaggedArray.dll
+D:\csharp\day12_30\JaggedArray\obj\Debug\net10.0\JaggedArray.pdb
+D:\csharp\day12_30\JaggedArray\obj\Debug\net10.0\JaggedArray.genruntimeconfig.cache
+D:\csharp\day12_30\JaggedArray\obj\Debug\net10.0\ref\JaggedArray.dll
