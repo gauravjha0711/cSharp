@@ -154,6 +154,23 @@ public class Program
         // Console.WriteLine($"Reversed string: {reversed}");
 
 
+        //reverse string without function
+        // Console.WriteLine("Enter a string to reverse: ");
+        // string input = Console.ReadLine();
+        // char[] charArray = input.ToCharArray();
+        // int start = 0;
+        // int end = charArray.Length - 1;
+        // while(start < end)
+        // {
+        //     char temp = charArray[start];
+        //     charArray[start] = charArray[end];
+        //     charArray[end] = temp;
+        //     start++;
+        //     end--;
+        // }
+        // string reversed = new string(charArray);
+
+
         //convert lower to upper case
         // Console.WriteLine("Enter lower case string: ");
         // string lowerCaseInput = Console.ReadLine();
