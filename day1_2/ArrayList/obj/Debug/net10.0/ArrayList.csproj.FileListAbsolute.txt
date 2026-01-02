@@ -1,0 +1,15 @@
+D:\csharp\day1_2\ArrayList\bin\Debug\net10.0\ArrayList.exe
+D:\csharp\day1_2\ArrayList\bin\Debug\net10.0\ArrayList.deps.json
+D:\csharp\day1_2\ArrayList\bin\Debug\net10.0\ArrayList.runtimeconfig.json
+D:\csharp\day1_2\ArrayList\bin\Debug\net10.0\ArrayList.dll
+D:\csharp\day1_2\ArrayList\bin\Debug\net10.0\ArrayList.pdb
+D:\csharp\day1_2\ArrayList\obj\Debug\net10.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day1_2\ArrayList\obj\Debug\net10.0\ArrayList.AssemblyInfoInputs.cache
+D:\csharp\day1_2\ArrayList\obj\Debug\net10.0\ArrayList.AssemblyInfo.cs
+D:\csharp\day1_2\ArrayList\obj\Debug\net10.0\ArrayList.csproj.CoreCompileInputs.cache
+D:\csharp\day1_2\ArrayList\obj\Debug\net10.0\ArrayList.sourcelink.json
+D:\csharp\day1_2\ArrayList\obj\Debug\net10.0\ArrayList.dll
+D:\csharp\day1_2\ArrayList\obj\Debug\net10.0\refint\ArrayList.dll
+D:\csharp\day1_2\ArrayList\obj\Debug\net10.0\ArrayList.pdb
+D:\csharp\day1_2\ArrayList\obj\Debug\net10.0\ArrayList.genruntimeconfig.cache
+D:\csharp\day1_2\ArrayList\obj\Debug\net10.0\ref\ArrayList.dll
