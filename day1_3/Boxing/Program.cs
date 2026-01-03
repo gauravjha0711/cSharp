@@ -63,13 +63,53 @@ public class Program
         // }
 
 
-        Dictionary<int, string> dict = new Dictionary<int, string>();
-        dict.Add(101, "Gaurav");
-        dict.Add(102, "Kundan");
-        dict.Add(103, "Krishna");
-        foreach(var kvp in dict)
+        // Dictionary<int, string> dict = new Dictionary<int, string>();
+        // dict.Add(101, "Gaurav");
+        // dict.Add(102, "Kundan");
+        // dict.Add(103, "Krishna");
+        // foreach(var kvp in dict)
+        // {
+        //     Console.WriteLine("Key: " + kvp.Key + ", Value: " + kvp.Value);
+        // }
+
+
+        SortedList<string, string> sortedList = new SortedList<string, string>();
+        sortedList.Add("101", "Gaurav");
+        sortedList.Add("102", "Kundan");
+        sortedList.Add("103", "Krishna");
+        foreach(var kvp in sortedList)
         {
             Console.WriteLine("Key: " + kvp.Key + ", Value: " + kvp.Value);
+        }
+
+        Stack<char> stack = new Stack<char>();
+        stack.Push('A');
+        stack.Push('B');
+        stack.Push('C');
+        foreach(var item in stack)
+        {
+            Console.WriteLine("Stack item: " + item);
+        }
+        stack.Pop();
+        Console.WriteLine("After Pop:");
+        foreach(var item in stack)
+        {
+            Console.WriteLine("Stack item: " + item);
+        }
+
+        Queue<char> queue = new Queue<char>();
+        queue.Enqueue('X');
+        queue.Enqueue('Y');
+        queue.Enqueue('Z');
+        foreach(var item in queue)
+        {
+            Console.WriteLine("Queue item: " + item);
+        }
+        queue.Dequeue();
+        Console.WriteLine("After Dequeue:");
+        foreach(var item in queue)
+        {
+            Console.WriteLine("Queue item: " + item);
         }
     }
 }
