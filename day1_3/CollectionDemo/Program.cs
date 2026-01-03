@@ -130,6 +130,37 @@ internal class Program
         // }
 
 
-        
+        //queue
+        Queue queue = new Queue() ;
+        queue.Enqueue(11) ;
+        queue.Enqueue(22) ;
+        queue.Enqueue(33) ;
+        queue.Enqueue(44) ;
+        queue.Enqueue(55) ;
+        Console.WriteLine("\n\n") ;
+        foreach (var item in queue)
+        {
+            Console.WriteLine(item) ;
+        }
+        Console.WriteLine($"Element at front is : {queue.Peek()}") ;
+        Console.WriteLine() ;
+        queue.Dequeue() ; // Remove 11
+        queue.Dequeue() ; // Remove 22
+        Console.WriteLine("After removing elements from Queue : ") ;
+        Console.WriteLine("All elements in Queue are : ") ;
+        foreach (var item in queue)
+        {
+            Console.WriteLine(item) ;
+        }
+        Console.WriteLine("Enter element to search in Queue : ") ;
+        int num = Convert.ToInt32(Console.ReadLine()) ;
+        if (queue.Contains(num))
+        {
+            Console.WriteLine($"Element {num} is found in Queue") ;
+        }
+        else
+        {
+            Console.WriteLine($"Element {num} is not found in Queue") ;
+        }
     }
 }
