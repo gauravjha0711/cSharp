@@ -44,44 +44,92 @@ internal class Program
         ////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-        SortedList list = new SortedList();
-        list.Add(103, "Krishna");
-        list.Add(101, "Gaurav");
-        list.Add(104, "Shubham");
-        list.Add(102, "Kundan");
-        ICollection key = list.Keys;
-        Console.WriteLine("All keys are: ");
-        foreach(var k in key)
-        {
-            Console.WriteLine(k);
-        }
-        ICollection values = list.Values;
-        Console.WriteLine("All values are: ");
-        foreach(var v in values)
-        {
-            Console.WriteLine(v);
-        }
-        Console.WriteLine("Keys and Values are: ");
-        foreach(var k in key)
-        {
-            Console.WriteLine(k + " : " + list[k]);
-        }
+        // SortedList list = new SortedList();
+        // list.Add(103, "Krishna");
+        // list.Add(101, "Gaurav");
+        // list.Add(104, "Shubham");
+        // list.Add(102, "Kundan");
+        // ICollection key = list.Keys;
+        // Console.WriteLine("All keys are: ");
+        // foreach(var k in key)
+        // {
+        //     Console.WriteLine(k);
+        // }
+        // ICollection values = list.Values;
+        // Console.WriteLine("All values are: ");
+        // foreach(var v in values)
+        // {
+        //     Console.WriteLine(v);
+        // }
+        // Console.WriteLine("Keys and Values are: ");
+        // foreach(var k in key)
+        // {
+        //     Console.WriteLine(k + " : " + list[k]);
+        // }
         
 
-        Console.WriteLine($"Index 0 having key : {list.IndexOfKey(500)} and value is : {list.IndexOfValue("Arijit")}") ;
+        // Console.WriteLine($"Index 0 having key : {list.IndexOfKey(500)} and value is : {list.IndexOfValue("Arijit")}") ;
 
 
-        list.Clear() ;
-        Console.WriteLine("After Clear : ") ;
-        Console.WriteLine("All Keys and Values are : ") ;
-        foreach (var k in key)
-        {
-            Console.WriteLine($"Key is {k} and value is {list[k]}") ;
-        }
+        // list.Clear() ;
+        // Console.WriteLine("After Clear : ") ;
+        // Console.WriteLine("All Keys and Values are : ") ;
+        // foreach (var k in key)
+        // {
+        //     Console.WriteLine($"Key is {k} and value is {list[k]}") ;
+        // }
 
-        int count = list.Count ;
-        Console.WriteLine($"The Count is : {count}") ; 
+        // int count = list.Count ;
+        // Console.WriteLine($"The Count is : {count}") ; 
 
          
+        ////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+        // Stack stack = new Stack() ;
+
+        // stack.Push('A') ;
+        // stack.Push('B') ;
+        // stack.Push('C') ;
+        // stack.Push('D') ;
+        // stack.Push('E') ;
+        // stack.Push('F') ;
+        // stack.Push('G') ;
+        // stack.Push('H') ;
+
+        // Console.WriteLine("\n\n") ;
+
+        // foreach (var item in stack)
+        // {
+        //     Console.WriteLine(item) ;
+        // }
+        
+        // Console.WriteLine($"Element at Top is : {stack.Peek()}") ;
+        // Console.WriteLine() ;
+
+        // stack.Pop() ;  // Remove H
+        // stack.Pop() ;  // Remove G
+        // stack.Pop() ;  // Remove F
+        // stack.Pop() ;  // Remove E
+        // stack.Pop() ;  // Remove D
+        // Console.WriteLine("After removing elements from Stack : ");
+
+        // Console.WriteLine("All elements in Stack are : ") ;
+        // foreach (var item in stack)
+        // {
+        //     Console.WriteLine(item) ;
+        // }
+        // Console.WriteLine("Enter element to search in Stack : ") ;
+        // char ch = Convert.ToChar(Console.ReadLine()) ;
+        // if (stack.Contains(ch))
+        // {
+        //     Console.WriteLine($"Element {ch} is found in Stack") ;
+        // }
+        // else
+        // {
+        //     Console.WriteLine($"Element {ch} is not found in Stack") ;
+        // }
+
+
+        
     }
 }
