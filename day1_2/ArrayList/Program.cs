@@ -64,6 +64,7 @@ public class Program
         //     Console.WriteLine(item);
         // }
         list.Insert(2,500);
+        list.Reverse();
         Console.WriteLine("After inserting 500 at index 2:");
         foreach(var item in list)
         {

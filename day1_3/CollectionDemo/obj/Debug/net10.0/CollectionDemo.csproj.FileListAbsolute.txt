@@ -1,0 +1,15 @@
+D:\csharp\day1_3\CollectionDemo\obj\Debug\net10.0\CollectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day1_3\CollectionDemo\obj\Debug\net10.0\CollectionDemo.AssemblyInfoInputs.cache
+D:\csharp\day1_3\CollectionDemo\obj\Debug\net10.0\CollectionDemo.AssemblyInfo.cs
+D:\csharp\day1_3\CollectionDemo\obj\Debug\net10.0\CollectionDemo.csproj.CoreCompileInputs.cache
+D:\csharp\day1_3\CollectionDemo\obj\Debug\net10.0\CollectionDemo.sourcelink.json
+D:\csharp\day1_3\CollectionDemo\bin\Debug\net10.0\CollectionDemo.exe
+D:\csharp\day1_3\CollectionDemo\bin\Debug\net10.0\CollectionDemo.deps.json
+D:\csharp\day1_3\CollectionDemo\bin\Debug\net10.0\CollectionDemo.runtimeconfig.json
+D:\csharp\day1_3\CollectionDemo\bin\Debug\net10.0\CollectionDemo.dll
+D:\csharp\day1_3\CollectionDemo\bin\Debug\net10.0\CollectionDemo.pdb
+D:\csharp\day1_3\CollectionDemo\obj\Debug\net10.0\CollectionDemo.dll
+D:\csharp\day1_3\CollectionDemo\obj\Debug\net10.0\refint\CollectionDemo.dll
+D:\csharp\day1_3\CollectionDemo\obj\Debug\net10.0\CollectionDemo.pdb
+D:\csharp\day1_3\CollectionDemo\obj\Debug\net10.0\CollectionDemo.genruntimeconfig.cache
+D:\csharp\day1_3\CollectionDemo\obj\Debug\net10.0\ref\CollectionDemo.dll
