@@ -1,0 +1,55 @@
+﻿using System;
+using System.Collections;
+public class Program
+{
+    public static void Main()
+    {
+        // object o;
+        // int i = 10;
+        // o = i; // Boxing
+
+        // string str;
+
+        // int j = (int)o; // Unboxing
+
+        // ArrayList arrayList = new ArrayList();
+        // arrayList.Add(1); // Boxing
+        // arrayList.Add(false); // Boxing
+        // arrayList.Add(3.14f); // Boxing
+
+        // int k = (int)arrayList[0]; // Unboxing
+
+        // var v = arrayList[1]; // No unboxing here, v is of type object
+        // bool t = (bool)v; // Unboxing
+
+        // // var x = 0;
+        // // x= "hello"; //showing error;
+
+        // dynamic d = 10;
+        // d = "hello"; //no error
+
+
+
+        AddClass addClass = new AddClass();
+        int sumInt = addClass.AddInt(10, 20);
+        Console.WriteLine("Sum of Integers: " + sumInt);
+
+        float sumFloat = addClass.AddFloat(10.5f, 20.3f);
+        Console.WriteLine("Sum of Floats: " + sumFloat);
+
+        string sumString = addClass.AddString("Hello, ", "World!");
+        Console.WriteLine("Concatenated String: " + sumString);
+
+        AddGenericClass<int> addInteger = new AddGenericClass<int>(10, 20);
+        int genericSumInt = addInteger.AddAllType(10, 20);
+        Console.WriteLine("Generic Sum of Integers: " + genericSumInt);
+
+        AddGenericClass<float> addFloat = new AddGenericClass<float>(10.5f, 20.3f);
+        float genericSumFloat = addFloat.AddAllType(10.5f, 20.3f);
+        Console.WriteLine("Generic Sum of Floats: " + genericSumFloat);
+
+        AddGenericClass<string> addString = new AddGenericClass<string>("Hello, ", "World!");
+        string genericSumString = addString.AddAllType("Hello, ", "World!");
+        Console.WriteLine("Generic Concatenated String: " + genericSumString);
+    }
+}

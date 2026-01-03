@@ -1,0 +1,15 @@
+D:\csharp\day1_3\Boxing\bin\Debug\net10.0\Boxing.exe
+D:\csharp\day1_3\Boxing\bin\Debug\net10.0\Boxing.deps.json
+D:\csharp\day1_3\Boxing\bin\Debug\net10.0\Boxing.runtimeconfig.json
+D:\csharp\day1_3\Boxing\bin\Debug\net10.0\Boxing.dll
+D:\csharp\day1_3\Boxing\bin\Debug\net10.0\Boxing.pdb
+D:\csharp\day1_3\Boxing\obj\Debug\net10.0\Boxing.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day1_3\Boxing\obj\Debug\net10.0\Boxing.AssemblyInfoInputs.cache
+D:\csharp\day1_3\Boxing\obj\Debug\net10.0\Boxing.AssemblyInfo.cs
+D:\csharp\day1_3\Boxing\obj\Debug\net10.0\Boxing.csproj.CoreCompileInputs.cache
+D:\csharp\day1_3\Boxing\obj\Debug\net10.0\Boxing.sourcelink.json
+D:\csharp\day1_3\Boxing\obj\Debug\net10.0\Boxing.dll
+D:\csharp\day1_3\Boxing\obj\Debug\net10.0\refint\Boxing.dll
+D:\csharp\day1_3\Boxing\obj\Debug\net10.0\Boxing.pdb
+D:\csharp\day1_3\Boxing\obj\Debug\net10.0\Boxing.genruntimeconfig.cache
+D:\csharp\day1_3\Boxing\obj\Debug\net10.0\ref\Boxing.dll
