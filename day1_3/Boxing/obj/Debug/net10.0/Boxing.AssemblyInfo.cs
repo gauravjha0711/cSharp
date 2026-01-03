@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Boxing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48a5777354d834a16025825af86a58b9e516526b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce9bf7d0c39591aa837502c3e0ebea7a65d4a201")]
 [assembly: System.Reflection.AssemblyProductAttribute("Boxing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Boxing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
