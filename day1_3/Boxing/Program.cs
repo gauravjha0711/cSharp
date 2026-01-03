@@ -53,13 +53,23 @@ public class Program
         // Console.WriteLine("Generic Concatenated String: " + genericSumString);
 
 
-        List<Employee> employees = new List<Employee>();
-        employees.Add(new Employee { Id = 1, Name = "Gaurav" });
-        employees.Add(new Employee { Id = 2, Name = "Kundan" });
-        employees.Add(new Employee { Id = 3, Name = "Krishna" });
-        foreach (Employee emp in employees)
+        // List<Employee> employees = new List<Employee>();
+        // employees.Add(new Employee { Id = 1, Name = "Gaurav" });
+        // employees.Add(new Employee { Id = 2, Name = "Kundan" });
+        // employees.Add(new Employee { Id = 3, Name = "Krishna" });
+        // foreach (Employee emp in employees)
+        // {
+        //     Console.WriteLine(emp);
+        // }
+
+
+        Dictionary<int, string> dict = new Dictionary<int, string>();
+        dict.Add(101, "Gaurav");
+        dict.Add(102, "Kundan");
+        dict.Add(103, "Krishna");
+        foreach(var kvp in dict)
         {
-            Console.WriteLine(emp);
+            Console.WriteLine("Key: " + kvp.Key + ", Value: " + kvp.Value);
         }
     }
 }
