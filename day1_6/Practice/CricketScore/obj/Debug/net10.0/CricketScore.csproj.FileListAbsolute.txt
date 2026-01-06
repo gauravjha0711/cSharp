@@ -1,0 +1,15 @@
+D:\csharp\day1_6\Practice\CricketScore\bin\Debug\net10.0\CricketScore.exe
+D:\csharp\day1_6\Practice\CricketScore\bin\Debug\net10.0\CricketScore.deps.json
+D:\csharp\day1_6\Practice\CricketScore\bin\Debug\net10.0\CricketScore.runtimeconfig.json
+D:\csharp\day1_6\Practice\CricketScore\bin\Debug\net10.0\CricketScore.dll
+D:\csharp\day1_6\Practice\CricketScore\bin\Debug\net10.0\CricketScore.pdb
+D:\csharp\day1_6\Practice\CricketScore\obj\Debug\net10.0\CricketScore.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day1_6\Practice\CricketScore\obj\Debug\net10.0\CricketScore.AssemblyInfoInputs.cache
+D:\csharp\day1_6\Practice\CricketScore\obj\Debug\net10.0\CricketScore.AssemblyInfo.cs
+D:\csharp\day1_6\Practice\CricketScore\obj\Debug\net10.0\CricketScore.csproj.CoreCompileInputs.cache
+D:\csharp\day1_6\Practice\CricketScore\obj\Debug\net10.0\CricketScore.sourcelink.json
+D:\csharp\day1_6\Practice\CricketScore\obj\Debug\net10.0\CricketScore.dll
+D:\csharp\day1_6\Practice\CricketScore\obj\Debug\net10.0\refint\CricketScore.dll
+D:\csharp\day1_6\Practice\CricketScore\obj\Debug\net10.0\CricketScore.pdb
+D:\csharp\day1_6\Practice\CricketScore\obj\Debug\net10.0\CricketScore.genruntimeconfig.cache
+D:\csharp\day1_6\Practice\CricketScore\obj\Debug\net10.0\ref\CricketScore.dll
