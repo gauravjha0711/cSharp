@@ -1,0 +1,15 @@
+D:\csharp\day1_6\Practice\TemperatureConversion\bin\Debug\net10.0\TemperatureConversion.exe
+D:\csharp\day1_6\Practice\TemperatureConversion\bin\Debug\net10.0\TemperatureConversion.deps.json
+D:\csharp\day1_6\Practice\TemperatureConversion\bin\Debug\net10.0\TemperatureConversion.runtimeconfig.json
+D:\csharp\day1_6\Practice\TemperatureConversion\bin\Debug\net10.0\TemperatureConversion.dll
+D:\csharp\day1_6\Practice\TemperatureConversion\bin\Debug\net10.0\TemperatureConversion.pdb
+D:\csharp\day1_6\Practice\TemperatureConversion\obj\Debug\net10.0\TemperatureConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day1_6\Practice\TemperatureConversion\obj\Debug\net10.0\TemperatureConversion.AssemblyInfoInputs.cache
+D:\csharp\day1_6\Practice\TemperatureConversion\obj\Debug\net10.0\TemperatureConversion.AssemblyInfo.cs
+D:\csharp\day1_6\Practice\TemperatureConversion\obj\Debug\net10.0\TemperatureConversion.csproj.CoreCompileInputs.cache
+D:\csharp\day1_6\Practice\TemperatureConversion\obj\Debug\net10.0\TemperatureConversion.sourcelink.json
+D:\csharp\day1_6\Practice\TemperatureConversion\obj\Debug\net10.0\TemperatureConversion.dll
+D:\csharp\day1_6\Practice\TemperatureConversion\obj\Debug\net10.0\refint\TemperatureConversion.dll
+D:\csharp\day1_6\Practice\TemperatureConversion\obj\Debug\net10.0\TemperatureConversion.pdb
+D:\csharp\day1_6\Practice\TemperatureConversion\obj\Debug\net10.0\TemperatureConversion.genruntimeconfig.cache
+D:\csharp\day1_6\Practice\TemperatureConversion\obj\Debug\net10.0\ref\TemperatureConversion.dll
