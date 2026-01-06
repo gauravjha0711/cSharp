@@ -1,0 +1,15 @@
+D:\csharp\day1_6\Exception\bin\Debug\net10.0\Exception.exe
+D:\csharp\day1_6\Exception\bin\Debug\net10.0\Exception.deps.json
+D:\csharp\day1_6\Exception\bin\Debug\net10.0\Exception.runtimeconfig.json
+D:\csharp\day1_6\Exception\bin\Debug\net10.0\Exception.dll
+D:\csharp\day1_6\Exception\bin\Debug\net10.0\Exception.pdb
+D:\csharp\day1_6\Exception\obj\Debug\net10.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day1_6\Exception\obj\Debug\net10.0\Exception.AssemblyInfoInputs.cache
+D:\csharp\day1_6\Exception\obj\Debug\net10.0\Exception.AssemblyInfo.cs
+D:\csharp\day1_6\Exception\obj\Debug\net10.0\Exception.csproj.CoreCompileInputs.cache
+D:\csharp\day1_6\Exception\obj\Debug\net10.0\Exception.sourcelink.json
+D:\csharp\day1_6\Exception\obj\Debug\net10.0\Exception.dll
+D:\csharp\day1_6\Exception\obj\Debug\net10.0\refint\Exception.dll
+D:\csharp\day1_6\Exception\obj\Debug\net10.0\Exception.pdb
+D:\csharp\day1_6\Exception\obj\Debug\net10.0\Exception.genruntimeconfig.cache
+D:\csharp\day1_6\Exception\obj\Debug\net10.0\ref\Exception.dll
