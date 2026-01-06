@@ -1,0 +1,22 @@
+using System;
+public class CricketMatch
+{
+    int[] playerScores;         //score up to 5 players
+    int currentIndex;           //track number of scores added
+    void addPlayerScore(int score)
+    {
+        if(score<0 || score > 50)
+        {
+            
+        }
+        if(currentIndex < 5)
+        {
+            playerScores[currentIndex] = score;
+            currentIndex++;
+        }
+        else
+        {
+            Console.WriteLine("Cannot add more than 5 player scores.");
+        }
+    }
+}

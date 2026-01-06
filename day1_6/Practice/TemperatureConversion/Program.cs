@@ -21,13 +21,17 @@ public class Program
             }
             else
             {
-                Console.WriteLine("Invalid conversion type. Please enter 'C' or 'F'.");
+                throw new TypeException("Please enter 'C' or 'F'.");
             }
         }
         catch (FormatException e)
         {
             Console.WriteLine("Error: Invalid input provided.");
             Console.WriteLine("Exception Message: " + e.Message);
+        }
+        catch(TypeException e)
+        {
+            Console.WriteLine("Invalid Conversion Type. " + e.Message);
         }
     }
 }
