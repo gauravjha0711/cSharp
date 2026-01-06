@@ -36,31 +36,49 @@ public class Program
 
 
         //nested try-catch
-        try
-        {
-            Console.WriteLine("Enter first number:");
-            num1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter second number:");
-            num2 = Convert.ToInt32(Console.ReadLine());
-            try
-            {
-                result = num1 / num2;
-                Console.WriteLine($"The result of division of {num1} by {num2} is: {result}");
-            }
-            catch (DivideByZeroException ex)
-            {
-                Console.WriteLine("Error: Division by zero is not allowed.");
-                Console.WriteLine(ex.Message);
-            }
-        }
-        catch (FormatException ex)
-        {
-            Console.WriteLine("Error: Invalid input format. Please enter numeric values.");
-            Console.WriteLine(ex.Message);
-        }
-        finally
-        {
-            Console.WriteLine("Execution completed.");
-        }
+        // try
+        // {
+        //     Console.WriteLine("Enter first number:");
+        //     num1 = Convert.ToInt32(Console.ReadLine());
+        //     Console.WriteLine("Enter second number:");
+        //     num2 = Convert.ToInt32(Console.ReadLine());
+        //     try
+        //     {
+        //         result = num1 / num2;
+        //         Console.WriteLine($"The result of division of {num1} by {num2} is: {result}");
+        //     }
+        //     catch (DivideByZeroException ex)
+        //     {
+        //         Console.WriteLine("Error: Division by zero is not allowed.");
+        //         Console.WriteLine(ex.Message);
+        //     }
+        // }
+        // catch (FormatException ex)
+        // {
+        //     Console.WriteLine("Error: Invalid input format. Please enter numeric values.");
+        //     Console.WriteLine(ex.Message);
+        // }
+        // finally
+        // {
+        //     Console.WriteLine("Execution completed.");
+        // }
+
+
+
+        //indexoutofrange exception
+        // try
+        // {
+        //     int[] numbers = new int[5] { 1, 2, 3, 4, 5 };
+        //     Console.WriteLine(numbers[5]);
+        // }
+        // catch (IndexOutOfRangeException ex)
+        // {
+        //     Console.WriteLine("Error: Attempted to access an index that is out of range.");
+        //     Console.WriteLine(ex.Message);
+        // }
+        // finally
+        // {
+        //     Console.WriteLine("Execution completed.");
+        // }
     }
 }
