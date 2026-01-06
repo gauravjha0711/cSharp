@@ -1,0 +1,15 @@
+D:\csharp\day1_3\CustomCollection\bin\Debug\net10.0\CustomCollection.exe
+D:\csharp\day1_3\CustomCollection\bin\Debug\net10.0\CustomCollection.deps.json
+D:\csharp\day1_3\CustomCollection\bin\Debug\net10.0\CustomCollection.runtimeconfig.json
+D:\csharp\day1_3\CustomCollection\bin\Debug\net10.0\CustomCollection.dll
+D:\csharp\day1_3\CustomCollection\bin\Debug\net10.0\CustomCollection.pdb
+D:\csharp\day1_3\CustomCollection\obj\Debug\net10.0\CustomCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day1_3\CustomCollection\obj\Debug\net10.0\CustomCollection.AssemblyInfoInputs.cache
+D:\csharp\day1_3\CustomCollection\obj\Debug\net10.0\CustomCollection.AssemblyInfo.cs
+D:\csharp\day1_3\CustomCollection\obj\Debug\net10.0\CustomCollection.csproj.CoreCompileInputs.cache
+D:\csharp\day1_3\CustomCollection\obj\Debug\net10.0\CustomCollection.sourcelink.json
+D:\csharp\day1_3\CustomCollection\obj\Debug\net10.0\CustomCollection.dll
+D:\csharp\day1_3\CustomCollection\obj\Debug\net10.0\refint\CustomCollection.dll
+D:\csharp\day1_3\CustomCollection\obj\Debug\net10.0\CustomCollection.pdb
+D:\csharp\day1_3\CustomCollection\obj\Debug\net10.0\CustomCollection.genruntimeconfig.cache
+D:\csharp\day1_3\CustomCollection\obj\Debug\net10.0\ref\CustomCollection.dll
