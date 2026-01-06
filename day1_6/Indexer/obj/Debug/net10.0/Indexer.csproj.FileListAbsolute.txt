@@ -1,0 +1,15 @@
+D:\csharp\day1_6\Indexer\bin\Debug\net10.0\Indexer.exe
+D:\csharp\day1_6\Indexer\bin\Debug\net10.0\Indexer.deps.json
+D:\csharp\day1_6\Indexer\bin\Debug\net10.0\Indexer.runtimeconfig.json
+D:\csharp\day1_6\Indexer\bin\Debug\net10.0\Indexer.dll
+D:\csharp\day1_6\Indexer\bin\Debug\net10.0\Indexer.pdb
+D:\csharp\day1_6\Indexer\obj\Debug\net10.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day1_6\Indexer\obj\Debug\net10.0\Indexer.AssemblyInfoInputs.cache
+D:\csharp\day1_6\Indexer\obj\Debug\net10.0\Indexer.AssemblyInfo.cs
+D:\csharp\day1_6\Indexer\obj\Debug\net10.0\Indexer.csproj.CoreCompileInputs.cache
+D:\csharp\day1_6\Indexer\obj\Debug\net10.0\Indexer.sourcelink.json
+D:\csharp\day1_6\Indexer\obj\Debug\net10.0\Indexer.dll
+D:\csharp\day1_6\Indexer\obj\Debug\net10.0\refint\Indexer.dll
+D:\csharp\day1_6\Indexer\obj\Debug\net10.0\Indexer.pdb
+D:\csharp\day1_6\Indexer\obj\Debug\net10.0\Indexer.genruntimeconfig.cache
+D:\csharp\day1_6\Indexer\obj\Debug\net10.0\ref\Indexer.dll
