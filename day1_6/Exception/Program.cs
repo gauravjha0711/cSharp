@@ -80,5 +80,17 @@ public class Program
         // {
         //     Console.WriteLine("Execution completed.");
         // }
+
+
+
+        try
+        {
+            throw new MyException("user Defined exception");
+        }
+        catch(Exception e)
+        {
+            Console.WriteLine("Exception Caught here: " + e.Message);
+        }
+        Console.WriteLine("Last Statement.");
     }
 }
