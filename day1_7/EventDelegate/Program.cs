@@ -1,11 +1,19 @@
 ﻿using System;
 public class Program
 {
+    public static int AddNumbers(int a, int b)
+    {
+        return a + b;
+    }
     public static void Main()
     {
-        AddTwoNumber a = new AddTwoNumber();
-        a.ev_OddNumber += new AddTwoNumber.dg_OddNumber(EventMessage); //subscribe event
-        a.Add();
+        // AddTwoNumber a = new AddTwoNumber();
+        // a.ev_OddNumber += new AddTwoNumber.dg_OddNumber(EventMessage); //subscribe event
+        // a.Add();
+
+
+        Func<int, int, int> Addition = AddNumbers;
+        System.Console.WriteLine("Sum: " + Addition(10, 20));
     }
     public static void EventMessage()
     {
