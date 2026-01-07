@@ -1,0 +1,15 @@
+D:\csharp\day1_7\EventDelegate\bin\Debug\net10.0\EventDelegate.exe
+D:\csharp\day1_7\EventDelegate\bin\Debug\net10.0\EventDelegate.deps.json
+D:\csharp\day1_7\EventDelegate\bin\Debug\net10.0\EventDelegate.runtimeconfig.json
+D:\csharp\day1_7\EventDelegate\bin\Debug\net10.0\EventDelegate.dll
+D:\csharp\day1_7\EventDelegate\bin\Debug\net10.0\EventDelegate.pdb
+D:\csharp\day1_7\EventDelegate\obj\Debug\net10.0\EventDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day1_7\EventDelegate\obj\Debug\net10.0\EventDelegate.AssemblyInfoInputs.cache
+D:\csharp\day1_7\EventDelegate\obj\Debug\net10.0\EventDelegate.AssemblyInfo.cs
+D:\csharp\day1_7\EventDelegate\obj\Debug\net10.0\EventDelegate.csproj.CoreCompileInputs.cache
+D:\csharp\day1_7\EventDelegate\obj\Debug\net10.0\EventDelegate.sourcelink.json
+D:\csharp\day1_7\EventDelegate\obj\Debug\net10.0\EventDelegate.dll
+D:\csharp\day1_7\EventDelegate\obj\Debug\net10.0\refint\EventDelegate.dll
+D:\csharp\day1_7\EventDelegate\obj\Debug\net10.0\EventDelegate.pdb
+D:\csharp\day1_7\EventDelegate\obj\Debug\net10.0\EventDelegate.genruntimeconfig.cache
+D:\csharp\day1_7\EventDelegate\obj\Debug\net10.0\ref\EventDelegate.dll
