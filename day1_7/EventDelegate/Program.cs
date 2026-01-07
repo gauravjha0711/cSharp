@@ -1,6 +1,7 @@
 ﻿using System;
 public class Program
 {
+    private static int result;
     public static int AddNumbers(int a, int b)
     {
         return a + b;
@@ -12,8 +13,14 @@ public class Program
         // a.Add();
 
 
-        Func<int, int, int> Addition = AddNumbers;
-        System.Console.WriteLine("Sum: " + Addition(10, 20));
+        //func delegate
+        // Func<int, int, int> Addition = AddNumbers;
+        // System.Console.WriteLine("Sum: " + Addition(10, 20));
+
+
+        //action delegate
+        Action<int,int> Addition = AddNumbers;
+        Console.WriteLine("Sum: " + Addition(10, 20));
     }
     public static void EventMessage()
     {
