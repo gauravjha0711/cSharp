@@ -2,6 +2,10 @@
 public class Program
 {
     private static int result;
+    public static bool IsApple(string str)
+    {
+        return str.Equals("I Phone X");
+    }
     public static int AddNumbers(int a, int b)
     {
         return a + b;
@@ -19,8 +23,15 @@ public class Program
 
 
         //action delegate
-        Action<int,int> Addition = AddNumbers;
-        Console.WriteLine("Sum: " + Addition(10, 20));
+        // Action<int,int> Addition = AddNumbers;
+        // Console.WriteLine("Sum: " + Addition(10, 20));
+
+
+        //predicate delegate
+        Predicate<string> checkIfApple = IsApple;
+        bool result = checkIfApple("I Phone X");
+        if(result)
+            Console.WriteLine("It's an I Phone X");
     }
     public static void EventMessage()
     {
