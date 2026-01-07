@@ -1,0 +1,15 @@
+D:\csharp\day1_7\CashLedger\bin\Debug\net10.0\CashLedger.exe
+D:\csharp\day1_7\CashLedger\bin\Debug\net10.0\CashLedger.deps.json
+D:\csharp\day1_7\CashLedger\bin\Debug\net10.0\CashLedger.runtimeconfig.json
+D:\csharp\day1_7\CashLedger\bin\Debug\net10.0\CashLedger.dll
+D:\csharp\day1_7\CashLedger\bin\Debug\net10.0\CashLedger.pdb
+D:\csharp\day1_7\CashLedger\obj\Debug\net10.0\CashLedger.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day1_7\CashLedger\obj\Debug\net10.0\CashLedger.AssemblyInfoInputs.cache
+D:\csharp\day1_7\CashLedger\obj\Debug\net10.0\CashLedger.AssemblyInfo.cs
+D:\csharp\day1_7\CashLedger\obj\Debug\net10.0\CashLedger.csproj.CoreCompileInputs.cache
+D:\csharp\day1_7\CashLedger\obj\Debug\net10.0\CashLedger.sourcelink.json
+D:\csharp\day1_7\CashLedger\obj\Debug\net10.0\CashLedger.dll
+D:\csharp\day1_7\CashLedger\obj\Debug\net10.0\refint\CashLedger.dll
+D:\csharp\day1_7\CashLedger\obj\Debug\net10.0\CashLedger.pdb
+D:\csharp\day1_7\CashLedger\obj\Debug\net10.0\CashLedger.genruntimeconfig.cache
+D:\csharp\day1_7\CashLedger\obj\Debug\net10.0\ref\CashLedger.dll
