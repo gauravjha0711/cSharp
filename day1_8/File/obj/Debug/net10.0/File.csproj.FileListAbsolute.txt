@@ -1,0 +1,15 @@
+D:\csharp\day1_8\File\bin\Debug\net10.0\File.exe
+D:\csharp\day1_8\File\bin\Debug\net10.0\File.deps.json
+D:\csharp\day1_8\File\bin\Debug\net10.0\File.runtimeconfig.json
+D:\csharp\day1_8\File\bin\Debug\net10.0\File.dll
+D:\csharp\day1_8\File\bin\Debug\net10.0\File.pdb
+D:\csharp\day1_8\File\obj\Debug\net10.0\File.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day1_8\File\obj\Debug\net10.0\File.AssemblyInfoInputs.cache
+D:\csharp\day1_8\File\obj\Debug\net10.0\File.AssemblyInfo.cs
+D:\csharp\day1_8\File\obj\Debug\net10.0\File.csproj.CoreCompileInputs.cache
+D:\csharp\day1_8\File\obj\Debug\net10.0\File.sourcelink.json
+D:\csharp\day1_8\File\obj\Debug\net10.0\File.dll
+D:\csharp\day1_8\File\obj\Debug\net10.0\refint\File.dll
+D:\csharp\day1_8\File\obj\Debug\net10.0\File.pdb
+D:\csharp\day1_8\File\obj\Debug\net10.0\File.genruntimeconfig.cache
+D:\csharp\day1_8\File\obj\Debug\net10.0\ref\File.dll
