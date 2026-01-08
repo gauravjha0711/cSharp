@@ -18,8 +18,8 @@ public class FileDemo
     {
         FileStream fileStream = new FileStream(@"D:\cSharp\day1_8\File\Test.txt",FileMode.Open,FileAccess.Read);
         StreamReader streamReader = new StreamReader(fileStream);
-        // string str = streamReader.ReadToEnd();
-        
+        // string str = streamReader.ReadToEnd();  // this is shortcut to read all text from file
+
         Console.WriteLine("Text read from file: ");
 
         streamReader.BaseStream.Seek(0,SeekOrigin.Begin);
