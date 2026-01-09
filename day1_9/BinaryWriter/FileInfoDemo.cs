@@ -35,10 +35,19 @@ public class FileInfoDemo
 
 
         //moving to file for one folder to another folder
-        string path3 = @"D:\cSharp\day1_9\Data1\File1.txt";
-        string path4 = @"D:\cSharp\day1_9\Data2\File1.txt";
-        FileInfo fi3 = new FileInfo(path3);
-        fi3.MoveTo(path4);
-        Console.WriteLine($"File moved from {path3} to {path4} successfully.");
+        // string path3 = @"D:\cSharp\day1_9\Data1\File1.txt";
+        // string path4 = @"D:\cSharp\day1_9\Data2\File1.txt";
+        // FileInfo fi3 = new FileInfo(path3);
+        // fi3.MoveTo(path4);
+        // Console.WriteLine($"File moved from {path3} to {path4} successfully.");
+
+
+        //This method create a StreamWriter that append text to file represented by this instance of FileInfo
+        FileInfo fi = new FileInfo(@"AppendFile.txt");
+        StreamWriter sw = fi.AppendText();
+        sw.WriteLine("This is appended line.");
+        sw.WriteLine("This is second appended line.");
+        Console.WriteLine("Text appended to file successfully.");
+        sw.Close();        
     }
 }   

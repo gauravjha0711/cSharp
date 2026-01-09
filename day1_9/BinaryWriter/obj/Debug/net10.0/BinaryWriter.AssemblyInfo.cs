@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BinaryWriter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4308320e7b4a6d4ab9bef5f58ebd8a50b54f940")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ed102c23aba87405126409545f3b466295936d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("BinaryWriter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BinaryWriter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
