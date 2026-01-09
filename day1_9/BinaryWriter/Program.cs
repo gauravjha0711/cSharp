@@ -5,6 +5,8 @@ public class Progam
     public static void Main()
     {
         // BinaryWriterDemo.WriteEmployeeData();
-        BinaryWriterDemo.ReadEmployeeData();
+        // BinaryWriterDemo.ReadEmployeeData();
+
+        FileInfoDemo.ShowFileInfo();
     }
 }
