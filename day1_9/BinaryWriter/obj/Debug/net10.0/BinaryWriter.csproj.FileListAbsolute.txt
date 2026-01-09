@@ -1,0 +1,15 @@
+D:\csharp\day1_9\BinaryWriter\obj\Debug\net10.0\BinaryWriter.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day1_9\BinaryWriter\obj\Debug\net10.0\BinaryWriter.AssemblyInfoInputs.cache
+D:\csharp\day1_9\BinaryWriter\obj\Debug\net10.0\BinaryWriter.AssemblyInfo.cs
+D:\csharp\day1_9\BinaryWriter\obj\Debug\net10.0\BinaryWriter.csproj.CoreCompileInputs.cache
+D:\csharp\day1_9\BinaryWriter\obj\Debug\net10.0\BinaryWriter.sourcelink.json
+D:\csharp\day1_9\BinaryWriter\bin\Debug\net10.0\BinaryWriter.exe
+D:\csharp\day1_9\BinaryWriter\bin\Debug\net10.0\BinaryWriter.deps.json
+D:\csharp\day1_9\BinaryWriter\bin\Debug\net10.0\BinaryWriter.runtimeconfig.json
+D:\csharp\day1_9\BinaryWriter\bin\Debug\net10.0\BinaryWriter.dll
+D:\csharp\day1_9\BinaryWriter\bin\Debug\net10.0\BinaryWriter.pdb
+D:\csharp\day1_9\BinaryWriter\obj\Debug\net10.0\BinaryWriter.dll
+D:\csharp\day1_9\BinaryWriter\obj\Debug\net10.0\refint\BinaryWriter.dll
+D:\csharp\day1_9\BinaryWriter\obj\Debug\net10.0\BinaryWriter.pdb
+D:\csharp\day1_9\BinaryWriter\obj\Debug\net10.0\BinaryWriter.genruntimeconfig.cache
+D:\csharp\day1_9\BinaryWriter\obj\Debug\net10.0\ref\BinaryWriter.dll
