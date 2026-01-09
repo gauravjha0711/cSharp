@@ -4,7 +4,7 @@ public class Progam
 {
     public static void Main()
     {
-        BinaryWriterDemo.WriteEmployeeData();
-
+        // BinaryWriterDemo.WriteEmployeeData();
+        BinaryWriterDemo.ReadEmployeeData();
     }
 }

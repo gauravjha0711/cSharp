@@ -16,5 +16,17 @@ public class BinaryWriterDemo
         Console.WriteLine("Employee data written to binary file successfully.");
     }
 
-    
+    public static void ReadEmployeeData()
+    {
+        string filePath = "employee.dat";
+        using (FileStream fs = new FileStream(filePath, FileMode.Open))
+        using (BinaryReader reader = new BinaryReader(fs))
+        {
+            int id = reader.ReadInt32();
+            string name = reader.ReadString();
+            double salary = reader.ReadDouble();
+            bool isActive = reader.ReadBoolean();
+            Console.WriteLine($"ID: {id}, Name: {name}, Salary: {salary}, Permanent: {isActive}");
+        }
+    }
 }
