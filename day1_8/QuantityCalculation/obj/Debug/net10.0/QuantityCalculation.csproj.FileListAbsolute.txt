@@ -1,0 +1,15 @@
+D:\csharp\day1_8\QuantityCalculation\obj\Debug\net10.0\QuantityCalculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day1_8\QuantityCalculation\obj\Debug\net10.0\QuantityCalculation.AssemblyInfoInputs.cache
+D:\csharp\day1_8\QuantityCalculation\obj\Debug\net10.0\QuantityCalculation.AssemblyInfo.cs
+D:\csharp\day1_8\QuantityCalculation\obj\Debug\net10.0\QuantityCalculation.csproj.CoreCompileInputs.cache
+D:\csharp\day1_8\QuantityCalculation\obj\Debug\net10.0\QuantityCalculation.sourcelink.json
+D:\csharp\day1_8\QuantityCalculation\bin\Debug\net10.0\QuantityCalculation.exe
+D:\csharp\day1_8\QuantityCalculation\bin\Debug\net10.0\QuantityCalculation.deps.json
+D:\csharp\day1_8\QuantityCalculation\bin\Debug\net10.0\QuantityCalculation.runtimeconfig.json
+D:\csharp\day1_8\QuantityCalculation\bin\Debug\net10.0\QuantityCalculation.dll
+D:\csharp\day1_8\QuantityCalculation\bin\Debug\net10.0\QuantityCalculation.pdb
+D:\csharp\day1_8\QuantityCalculation\obj\Debug\net10.0\QuantityCalculation.dll
+D:\csharp\day1_8\QuantityCalculation\obj\Debug\net10.0\refint\QuantityCalculation.dll
+D:\csharp\day1_8\QuantityCalculation\obj\Debug\net10.0\QuantityCalculation.pdb
+D:\csharp\day1_8\QuantityCalculation\obj\Debug\net10.0\QuantityCalculation.genruntimeconfig.cache
+D:\csharp\day1_8\QuantityCalculation\obj\Debug\net10.0\ref\QuantityCalculation.dll
