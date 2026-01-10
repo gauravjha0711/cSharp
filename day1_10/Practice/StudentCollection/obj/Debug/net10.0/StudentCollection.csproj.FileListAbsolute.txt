@@ -1,0 +1,15 @@
+D:\csharp\day1_10\Practice\StudentCollection\obj\Debug\net10.0\StudentCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day1_10\Practice\StudentCollection\obj\Debug\net10.0\StudentCollection.AssemblyInfoInputs.cache
+D:\csharp\day1_10\Practice\StudentCollection\obj\Debug\net10.0\StudentCollection.AssemblyInfo.cs
+D:\csharp\day1_10\Practice\StudentCollection\obj\Debug\net10.0\StudentCollection.csproj.CoreCompileInputs.cache
+D:\csharp\day1_10\Practice\StudentCollection\obj\Debug\net10.0\StudentCollection.sourcelink.json
+D:\csharp\day1_10\Practice\StudentCollection\bin\Debug\net10.0\StudentCollection.exe
+D:\csharp\day1_10\Practice\StudentCollection\bin\Debug\net10.0\StudentCollection.deps.json
+D:\csharp\day1_10\Practice\StudentCollection\bin\Debug\net10.0\StudentCollection.runtimeconfig.json
+D:\csharp\day1_10\Practice\StudentCollection\bin\Debug\net10.0\StudentCollection.dll
+D:\csharp\day1_10\Practice\StudentCollection\bin\Debug\net10.0\StudentCollection.pdb
+D:\csharp\day1_10\Practice\StudentCollection\obj\Debug\net10.0\StudentCollection.dll
+D:\csharp\day1_10\Practice\StudentCollection\obj\Debug\net10.0\refint\StudentCollection.dll
+D:\csharp\day1_10\Practice\StudentCollection\obj\Debug\net10.0\StudentCollection.pdb
+D:\csharp\day1_10\Practice\StudentCollection\obj\Debug\net10.0\StudentCollection.genruntimeconfig.cache
+D:\csharp\day1_10\Practice\StudentCollection\obj\Debug\net10.0\ref\StudentCollection.dll
