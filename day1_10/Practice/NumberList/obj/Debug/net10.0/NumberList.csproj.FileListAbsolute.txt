@@ -1,0 +1,15 @@
+D:\csharp\day1_10\Practice\NumberList\obj\Debug\net10.0\NumberList.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day1_10\Practice\NumberList\obj\Debug\net10.0\NumberList.AssemblyInfoInputs.cache
+D:\csharp\day1_10\Practice\NumberList\obj\Debug\net10.0\NumberList.AssemblyInfo.cs
+D:\csharp\day1_10\Practice\NumberList\obj\Debug\net10.0\NumberList.csproj.CoreCompileInputs.cache
+D:\csharp\day1_10\Practice\NumberList\obj\Debug\net10.0\NumberList.sourcelink.json
+D:\csharp\day1_10\Practice\NumberList\bin\Debug\net10.0\NumberList.exe
+D:\csharp\day1_10\Practice\NumberList\bin\Debug\net10.0\NumberList.deps.json
+D:\csharp\day1_10\Practice\NumberList\bin\Debug\net10.0\NumberList.runtimeconfig.json
+D:\csharp\day1_10\Practice\NumberList\bin\Debug\net10.0\NumberList.dll
+D:\csharp\day1_10\Practice\NumberList\bin\Debug\net10.0\NumberList.pdb
+D:\csharp\day1_10\Practice\NumberList\obj\Debug\net10.0\NumberList.dll
+D:\csharp\day1_10\Practice\NumberList\obj\Debug\net10.0\refint\NumberList.dll
+D:\csharp\day1_10\Practice\NumberList\obj\Debug\net10.0\NumberList.pdb
+D:\csharp\day1_10\Practice\NumberList\obj\Debug\net10.0\NumberList.genruntimeconfig.cache
+D:\csharp\day1_10\Practice\NumberList\obj\Debug\net10.0\ref\NumberList.dll
