@@ -1,0 +1,15 @@
+D:\csharp\day1_8\MovieTicket\bin\Debug\net10.0\MovieTicket.exe
+D:\csharp\day1_8\MovieTicket\bin\Debug\net10.0\MovieTicket.deps.json
+D:\csharp\day1_8\MovieTicket\bin\Debug\net10.0\MovieTicket.runtimeconfig.json
+D:\csharp\day1_8\MovieTicket\bin\Debug\net10.0\MovieTicket.dll
+D:\csharp\day1_8\MovieTicket\bin\Debug\net10.0\MovieTicket.pdb
+D:\csharp\day1_8\MovieTicket\obj\Debug\net10.0\MovieTicket.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\day1_8\MovieTicket\obj\Debug\net10.0\MovieTicket.AssemblyInfoInputs.cache
+D:\csharp\day1_8\MovieTicket\obj\Debug\net10.0\MovieTicket.AssemblyInfo.cs
+D:\csharp\day1_8\MovieTicket\obj\Debug\net10.0\MovieTicket.csproj.CoreCompileInputs.cache
+D:\csharp\day1_8\MovieTicket\obj\Debug\net10.0\MovieTicket.sourcelink.json
+D:\csharp\day1_8\MovieTicket\obj\Debug\net10.0\MovieTicket.dll
+D:\csharp\day1_8\MovieTicket\obj\Debug\net10.0\refint\MovieTicket.dll
+D:\csharp\day1_8\MovieTicket\obj\Debug\net10.0\MovieTicket.pdb
+D:\csharp\day1_8\MovieTicket\obj\Debug\net10.0\MovieTicket.genruntimeconfig.cache
+D:\csharp\day1_8\MovieTicket\obj\Debug\net10.0\ref\MovieTicket.dll
