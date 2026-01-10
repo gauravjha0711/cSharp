@@ -43,11 +43,34 @@ public class FileInfoDemo
 
 
         //This method create a StreamWriter that append text to file represented by this instance of FileInfo
-        FileInfo fi = new FileInfo(@"AppendFile.txt");
-        StreamWriter sw = fi.AppendText();
-        sw.WriteLine("This is appended line.");
-        sw.WriteLine("This is second appended line.");
-        Console.WriteLine("Text appended to file successfully.");
-        sw.Close();        
+        // FileInfo fi = new FileInfo(@"AppendFile.txt");
+        // StreamWriter sw = fi.AppendText();
+        // sw.WriteLine("This is appended line.");
+        // sw.WriteLine("This is second appended line.");
+        // Console.WriteLine("Text appended to file successfully.");
+        // sw.Close();
+
+
+        //this method created streamReader with UTF8 encoding that reads from existing text file
+        // FileInfo fi = new FileInfo(@"D:\cSharp\day1_9\Data2\File1.txt");
+        // StreamReader sr = fi.OpenText();
+        // string s = "";
+        // while((s = sr.ReadLine()) != null)
+        // {
+        //     Console.WriteLine(s);
+        // }
+        // sr.Close();
+
+
+        //
+        FileInfo fi = new FileInfo(@"D:\cSharp\day1_9\Data2\File1.txt");
+        Console.WriteLine($"File Name is {fi.Name}");
+        Console.WriteLine($"File Creation Time is {fi.CreationTime.ToLongTimeString()}");
+        Console.WriteLine($"File Last Access Time is {fi.LastAccessTime.ToLongDateString()}");
+        Console.WriteLine($"File Length is {fi.Length.ToString()} bytes");
+        Console.WriteLine($"File extension is {fi.Extension}");
+        Console.WriteLine($"File exist is {fi.Exists}");
+
+        
     }
-}   
+}
