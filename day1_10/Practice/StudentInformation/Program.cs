@@ -27,9 +27,8 @@ public class Student
     public string Name { get; set; }
     public string Grade { get; set; }
 }
-public class StudentManager : Student
+public class StudentManager
 {
-    //use dictionary to store student information
     Dictionary<int, Student> students = new Dictionary<int, Student>();
     public void AddStudent(Student student)
     {
