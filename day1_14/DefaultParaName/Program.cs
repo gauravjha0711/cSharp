@@ -62,21 +62,59 @@ using System.Threading;
 
 
 
+// public class ThreadClass
+// {
+//     public static void Thread1()
+//     {
+//         Thread t = Thread.CurrentThread;
+//         Console.WriteLine($"Thread Name: {t.Name} Running with Priority: {t.Priority}");
+//     }
+// }
+// public class Program
+// {
+//     public static void Main()
+//     {
+//         Thread t1 = new Thread(new ThreadStart(ThreadClass.Thread1));
+//         Thread t2 = new Thread(new ThreadStart(ThreadClass.Thread1));
+//         Thread t3 = new Thread(new ThreadStart(ThreadClass.Thread1));
+//         t1.Name = "T1";
+//         t2.Name = "T2";
+//         t3.Name = "T3";
+//         t3.Priority = ThreadPriority.Highest;
+//         t2.Priority = ThreadPriority.Normal;
+//         t1.Priority = ThreadPriority.Lowest;
+//         t1.Start();
+//         t2.Start();
+//         t3.Start();
+//     }
+// }
+
+
+
+
+
 public class ThreadClass
 {
-    public static void Thread1()
+    public void Thread1()
     {
-        Thread t = Thread.CurrentThread;
-        Console.WriteLine($"Thread Name: {t.Name} Running with Priority: {t.Priority}");
+        lock(this)
+        {
+            for (int i = 1; i <= 5; i++)
+            {
+                Console.WriteLine($"Thread {Thread.CurrentThread.Name}: " + i);
+                Thread.Sleep(500); // Simulate some work
+            }
+        }
     }
 }
 public class Program
 {
     public static void Main()
     {
-        Thread t1 = new Thread(new ThreadStart(ThreadClass.Thread1));
-        Thread t2 = new Thread(new ThreadStart(ThreadClass.Thread1));
-        Thread t3 = new Thread(new ThreadStart(ThreadClass.Thread1));
+        ThreadClass p = new ThreadClass();
+        Thread t1 = new Thread(new ThreadStart(p.Thread1));
+        Thread t2 = new Thread(new ThreadStart(p.Thread1));
+        Thread t3 = new Thread(new ThreadStart(p.Thread1));
         t1.Name = "T1";
         t2.Name = "T2";
         t3.Name = "T3";
